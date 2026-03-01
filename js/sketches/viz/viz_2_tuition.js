@@ -25,7 +25,7 @@
                 p.textAlign(p.CENTER, p.CENTER);
                 p.text("Loading Tuition Data...", manager.width/2, manager.height/2);
                 p.pop();
-                return; // Stop drawing until data is ready
+                return;
             }
             
             // --- 1. SETUP UI CONTROLS (Once) ---
@@ -34,10 +34,25 @@
                 this.controlsCreated = true;
             }
 
-            // --- 2. HANDLE UPDATING VIS STATE (Filtering) ---
+            // --- 2. TOGGLE VISIBILITY (Every Frame) ---
+            // let controlsDiv = document.getElementById('viz2-controls');
+            // if (controlsDiv) {
+            //     // --- DEBUG: Log the active index to confirm in console ---
+            //     console.log("Active Index:", manager.state.activeIndex);                
+                
+            //     // --- FIX: Only show if activeIndex is 4 ---
+            //     if (manager.state.activeIndex === 4) {
+            //         controlsDiv.style.display = 'block';
+            //     } else {
+            //         controlsDiv.style.display = 'none';
+            //     }
+            // }
+            document.dispatchEvent(new CustomEvent('sectionChange', { detail: { activeIndex: manager.state.activeIndex } }));
+
+            // --- 3. HANDLE UPDATING VIS STATE (Filtering) ---
             this.handleResetVisState(manager);
 
-            // --- 3. RENDER THE CHART ---
+            // --- 4. RENDER THE CHART ---
             if (this.currentDataset.length > 0) {
                 this.renderChart(p, manager);
             } else {
@@ -100,6 +115,13 @@
             this.institutionSelect.option('Private For-Profit', 'private_for_profit');
             this.institutionSelect.selected('all_institutions');
             controls.child(this.institutionSelect);
+
+            document.addEventListener('sectionChange', function(e) {
+                let controlsDiv = document.getElementById('viz2-controls');
+                if (controlsDiv) {
+                    controlsDiv.style.display = (e.detail.activeIndex === 4) ? 'block' : 'none';
+                }
+            });
         },
 
         // Logic to filter data when controls change
@@ -193,7 +215,7 @@
             p.strokeWeight(2);
             
             // Define colors for each level
-            const colors = { 'total': p.color(0), '4yr': p.color(230, 80, 150), '2yr': p.color(80, 150, 230) };
+            const colors = { 'total': p.color(211, 211, 211), '4yr': p.color(230, 80, 150), '2yr': p.color(80, 150, 230) };
 
             Object.keys(lines).forEach(level => {
                 let data = lines[level];

@@ -51,8 +51,19 @@ function startP5() {
 
 
     // set visualization state (called by scroll logic)
+    // SketchManager.prototype.setState = function (s) {
+    //     if (s.activeIndex !== undefined) this.state.activeIndex = s.activeIndex;
+    //     if (s.progress !== undefined) this.state.progress = s.progress;
+    // };
+
     SketchManager.prototype.setState = function (s) {
-        if (s.activeIndex !== undefined) this.state.activeIndex = s.activeIndex;
+        if (s.activeIndex !== undefined) {
+            this.state.activeIndex = s.activeIndex;
+            // Dispatch event so viz controls can show/hide themselves
+            document.dispatchEvent(new CustomEvent('sectionChange', { 
+                detail: { activeIndex: s.activeIndex } 
+            }));
+        }
         if (s.progress !== undefined) this.state.progress = s.progress;
     };
 

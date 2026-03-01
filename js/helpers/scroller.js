@@ -49,6 +49,7 @@
 
             if (self.currentIndex !== sectionIndex) {
                 self.currentIndex = sectionIndex;
+                console.log("Scroller calling onActive with index:", sectionIndex);
                 self.onActive(sectionIndex);
             }
 
