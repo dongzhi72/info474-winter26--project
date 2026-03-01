@@ -3,8 +3,17 @@
         draw: function (p, manager, ai, progress) {
             p.push();
             
-            // --- 1. DATA PROCESSING ---
-            if (!manager.dataProcessed && manager.table1) {
+            // --- SAFETY CHECK: Data must be loaded ---
+            if (!manager.table1) {
+                p.fill(150);
+                p.textAlign(p.CENTER, p.CENTER);
+                p.text("Loading data...", manager.width/2, manager.height/2);
+                p.pop();
+                return; // Stop here if data isn't ready
+            }
+
+            // --- 1. DATA PROCESSING (Runs only once) ---
+            if (!manager.dataProcessed) {
                 let rows = manager.table1.getRows();
                 manager.maleData = [];
                 manager.femaleData = [];
@@ -14,17 +23,23 @@
                     let sex = rows[i].getString("sex");
                     let metric = rows[i].getString("metric");
                     let year = rows[i].getNum("year");
-                    let val = rows[i].getNum("value");
-
+                    
+                    // --- FIX: Check if "value" is a valid number ---
+                    let valStr = rows[i].getString("value"); 
+                    let val = parseFloat(valStr); // Try parsing it first
+                    
+                    // Only process if it is a number
                     if (inst === "Total" && metric === "num" && !isNaN(val)) {
                         let pt = { x: year, y: val };
                         if (sex === "Male") manager.maleData.push(pt);
                         else if (sex === "Female") manager.femaleData.push(pt);
                     }
                 }
+                
                 manager.maleData.sort((a, b) => a.x - b.x);
                 manager.femaleData.sort((a, b) => a.x - b.x);
                 manager.dataProcessed = true;
+                console.log("Data processed. Male points:", manager.maleData.length);
             }
 
             // --- 2. RENDER THE CHART ---
@@ -49,10 +64,8 @@
                 // --- Draw Axes ---
                 p.stroke(200);
                 p.strokeWeight(1);
-                // X Axis
-                p.line(startX, startY + chartH, startX + chartW, startY + chartH);
-                // Y Axis
-                p.line(startX, startY, startX, startY + chartH);
+                p.line(startX, startY + chartH, startX + chartW, startY + chartH); // X Axis
+                p.line(startX, startY, startX, startY + chartH); // Y Axis
 
                 // --- Draw Lines ---
                 p.noFill();
@@ -75,7 +88,7 @@
                 p.fill(50);
                 p.textAlign(p.CENTER);
                 p.textSize(12);
-
+                
                 // Title
                 p.textStyle(p.BOLD);
                 p.text("College Enrollment Rates by Sex (1960-2022)", startX + chartW/2, startY - 30);
@@ -102,8 +115,7 @@
                 p.rect(startX + 120, startY + 10, 15, 15);
                 p.text("Male", startX + 140, startY + 22);
             }
-
-
+            
             p.pop();
         }
     };
