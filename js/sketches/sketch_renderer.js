@@ -65,7 +65,7 @@
 
             // 7: Visualization 7 (ROI / Earnings)
             if (ai === 7) {
-                window.Viz7ROI.draw(p, manager, ai, progress);
+                window.Viz7Income.draw(p, manager, ai, progress);
                 return;
             }
         }
