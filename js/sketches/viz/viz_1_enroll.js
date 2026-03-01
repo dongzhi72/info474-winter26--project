@@ -27,6 +27,36 @@
                 manager.dataProcessed = true;
             }
 
+            // --- 2. RENDER THE CHART ---
+            if (manager.dataProcessed) {
+                // Layout settings
+                const margin = { top: 60, right: 40, bottom: 60, left: 70 };
+                const chartW = manager.width - margin.left - margin.right;
+                const chartH = manager.height - margin.top - margin.bottom;
+                const startX = margin.left;
+                const startY = margin.top;
+
+                // Data Scaling Constants
+                const minYear = 1960;
+                const maxYear = 2022;
+                const minY = 30; // Data ranges from ~37 to ~74
+                const maxY = 80;
+
+                // Helper function to map data to screen coordinates
+                const mapX = (year) => p.map(year, minYear, maxYear, startX, startX + chartW);
+                const mapY = (val) => p.map(val, minY, maxY, startY + chartH, startY);
+
+                // --- Draw Axes ---
+                p.stroke(200);
+                p.strokeWeight(1);
+                // X Axis
+                p.line(startX, startY + chartH, startX + chartW, startY + chartH);
+                // Y Axis
+                p.line(startX, startY, startX, startY + chartH);
+
+                
+            }
+
 
             p.pop();
         }
