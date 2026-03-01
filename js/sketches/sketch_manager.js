@@ -29,6 +29,7 @@ function startP5() {
             p.preload = function() {
                 // This loads the CSV and attaches it to the manager (self)
                 self.table1 = p.loadTable('data/df1_college_enrollment_1960_2022_long.csv', 'csv', 'header');
+                self.table4 = p.loadTable('data/df4_race_enrollment.csv', 'csv', 'header');
             };
 
             p.setup = function () {
