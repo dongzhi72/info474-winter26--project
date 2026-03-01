@@ -15,7 +15,7 @@
             p.fill(0);
             p.textAlign(p.CENTER, p.CENTER);
             p.textSize(48);
-            // p.text(ai === 0 ? 'INFO 474' : 'Final Project', cx, cy);
+            p.text(ai === 0 ? 'Is College Still Worth It?' : 'Cost, Access, Risk, and Return', cx, cy);
             p.pop();
         }
     };
