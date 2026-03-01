@@ -107,5 +107,88 @@
                 });
             }
         },
+
+        renderChart: function(p, manager) {
+            const margin = { top: 60, right: 120, bottom: 60, left: 80 };
+            const chartW = manager.width - margin.left - margin.right;
+            const chartH = manager.height - margin.top - margin.bottom;
+            const startX = margin.left;
+            const startY = margin.top;
+
+            // Organize data by level ('total', '4yr', '2yr') for lines
+            let lines = { 'total': [], '4yr': [], '2yr': [] };
+            let maxCost = 0;
+            let minYear = 2030; // High default
+            let maxYear = 0;
+
+            this.currentDataset.forEach(row => {
+                let year = row.getNum("year");
+                let cost = row.getNum("cost_value");
+                let level = row.getString("level");
+
+                if (!isNaN(cost)) {
+                    lines[level].push({x: year, y: cost});
+                    if (cost > maxCost) maxCost = cost;
+                    if (year < minYear) minYear = year;
+                    if (year > maxYear) maxYear = year;
+                }
+            });
+
+            // Sorting required for line chart
+            Object.keys(lines).forEach(level => lines[level].sort((a,b) => a.x - b.x));
+
+            // Mapping functions
+            const mapX = (year) => p.map(year, minYear, maxYear, startX, startX + chartW);
+            const mapY = (val) => p.map(val, 0, maxCost * 1.05, startY + chartH, startY);
+
+            // --- Draw Axes ---
+            p.stroke(50);
+            p.strokeWeight(1);
+            p.line(startX, startY + chartH, startX + chartW, startY + chartH); // X
+            p.line(startX, startY, startX, startY + chartH); // Y
+
+            // --- Draw Lines ---
+            p.noFill();
+            p.strokeWeight(2);
+            
+            // Define colors for each level
+            const colors = { 'total': p.color(0), '4yr': p.color(230, 80, 150), '2yr': p.color(80, 150, 230) };
+
+            Object.keys(lines).forEach(level => {
+                let data = lines[level];
+                if (data.length > 0) {
+                    p.stroke(colors[level]);
+                    p.beginShape();
+                    data.forEach(d => p.vertex(mapX(d.x), mapY(d.y)));
+                    p.endShape();
+                }
+            });
+
+            // --- Labels & Legend ---
+            p.noStroke();
+            p.fill(0);
+            p.textAlign(p.CENTER);
+            
+            // X-Axis Title
+            p.text("Year", startX + chartW / 2, startY + chartH + 40);
+
+            // Y-Axis Labels
+            p.textAlign(p.RIGHT);
+            for (let v = 0; v <= maxCost; v += (maxCost / 5)) {
+                p.text("$" + Math.round(v/1000) + "k", startX - 10, mapY(v) + 4);
+            }
+
+            // Legend
+            let legendY = startY;
+            Object.keys(colors).forEach(level => {
+                p.stroke(colors[level]);
+                p.line(startX + chartW + 10, legendY, startX + chartW + 30, legendY);
+                p.noStroke();
+                p.fill(0);
+                p.textAlign(p.LEFT);
+                p.text(level.toUpperCase(), startX + chartW + 35, legendY + 4);
+                legendY += 20;
+            });
+        }
     }
 })();
