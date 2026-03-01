@@ -1,5 +1,5 @@
 (function () {
-    window.VizBar = {
+    window.Viz1Enrollment = {
         draw: function (p, manager, ai, progress) {
             p.push();
             

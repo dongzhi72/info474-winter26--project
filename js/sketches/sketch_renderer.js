@@ -27,7 +27,7 @@
             }
 
             if (ai >= 4 && ai < 7) {
-                window.VizScatter.draw(p, manager, ai, progress);
+                window.Viz1Enrollment.draw(p, manager, ai, progress);
                 return;
             }
 
