@@ -37,7 +37,7 @@
             }
 
             // ---- Layout ----
-            const margin = { top: 120, right: 80, bottom: 140, left: 110 };
+            const margin = { top: 120, right: 60, bottom: 120, left: 200 };
             const chartW = manager.width - margin.left - margin.right;
             const chartH = manager.height - margin.top - margin.bottom;
             const startX = margin.left;
@@ -72,7 +72,7 @@
 
                 let c = colors[race];
                 p.stroke(c[0],c[1],c[2]);
-                p.fill(c[0],c[1],c[2],80);
+                p.fill(c[0],c[1],c[2],60);
 
                 // Draw points (like geom_point alpha=0.3)
                 data.forEach(d=>{
