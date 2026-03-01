@@ -18,6 +18,15 @@
         
         draw: function (p, manager, ai, progress) {
             p.push();
+
+            // --- SAFETY CHECK: Check if data is loaded ---
+            if (!manager.table2) {
+                p.fill(150);
+                p.textAlign(p.CENTER, p.CENTER);
+                p.text("Loading Tuition Data...", manager.width/2, manager.height/2);
+                p.pop();
+                return; // Stop drawing until data is ready
+            }
             
             // --- 1. SETUP UI CONTROLS (Once) ---
             if (!this.controlsCreated) {
@@ -37,47 +46,59 @@
                 p.text("No data found for selection.", manager.width / 2, manager.height / 2);
             }
             
-            
             p.pop();
         },
         
         // Helper to create HTML controls in the 'vis' div
         createControls: function(p, manager) {
-            // Get the container provided by the manager
+            // 1. Ensure the container exists
             let container = p.select('#vis');
+            if (!container) {
+                console.error("Error: Could not find #vis container!");
+                return;
+            }
             
-            // Create a panel for controls
+            // 2. Create the panel
             let controls = p.createDiv('').id('viz2-controls');
+            controls.parent(container); 
             controls.style('position', 'absolute');
-            // Position based on the parent container
             controls.style('top', '10px');
             controls.style('left', '10px');
-            controls.style('background', 'rgba(255,255,255,0.8)');
-            controls.style('padding', '10px');
-            controls.style('border-radius', '5px');
+            controls.style('background', 'rgba(255,255,255,0.9)');
+            controls.style('padding', '15px');
+            controls.style('border-radius', '8px');
+            controls.style('z-index', '1000'); 
+            controls.style('border', '1px solid #ccc');
 
-            // 1. Measure Select Box (Raw vs Inflation Adjusted)
+            // 1. Measure Select Box
             controls.child(p.createSpan('View: '));
             this.measureSelect = p.createSelect();
-            this.measureSelect.option('raw', 'Raw Cost');
-            this.measureSelect.option('inf', 'Inflation Adjusted');
-            this.measureSelect.selected('inf'); // Default
+            // --- FIX: Documentation says .option(label, value) ---
+            this.measureSelect.option('Raw Cost', 'raw'); 
+            this.measureSelect.option('Inflation Adjusted', 'inf');
+            this.measureSelect.selected('inf');
             controls.child(this.measureSelect);
             controls.child(p.createElement('br'));
 
             // 2. Category Dropdown
             controls.child(p.createSpan('Type: '));
             this.categorySelect = p.createSelect();
-            ['total', 'tuition', 'dorm', 'board'].forEach(c => this.categorySelect.option(c));
-            this.categorySelect.selected('total'); // Default
+            this.categorySelect.option('Total', 'total');
+            this.categorySelect.option('Tuition', 'tuition');
+            this.categorySelect.option('Dorm', 'dorm');
+            this.categorySelect.option('Board', 'board');
+            this.categorySelect.selected('total');
             controls.child(this.categorySelect);
             controls.child(p.createElement('br'));
 
             // 3. Institution Dropdown
             controls.child(p.createSpan('Institution: '));
             this.institutionSelect = p.createSelect();
-            ['all_institutions', 'Public_institutions', 'private_non_profit', 'private_for_profit'].forEach(i => this.institutionSelect.option(i));
-            this.institutionSelect.selected('all_institutions'); // Default
+            this.institutionSelect.option('All Institutions', 'all_institutions');
+            this.institutionSelect.option('Public Institutions', 'public_institutions');
+            this.institutionSelect.option('Private Non-Profit', 'private_non_profit');
+            this.institutionSelect.option('Private For-Profit', 'private_for_profit');
+            this.institutionSelect.selected('all_institutions');
             controls.child(this.institutionSelect);
         },
 
@@ -85,26 +106,38 @@
         handleResetVisState: function(manager) {
             if (!manager.table2) return;
 
+            // --- DEBUG: Print Table Headers ---
+            console.log("CSV Columns:", manager.table2.columns);                
+            // ---------------------------------
+
             const newMeasure = this.measureSelect.selected();
             const newCategory = this.categorySelect.selected();
             const newInstitution = this.institutionSelect.selected();
 
-            // Check if any filter has changed
+            // Check if any filter has changed OR if it's the first time
             if (newMeasure !== this.lastMeasure || 
                 newCategory !== this.lastCategory || 
-                newInstitution !== this.lastInstitution) {
+                newInstitution !== this.lastInstitution ||
+                this.currentDataset.length === 0) { 
 
-                console.log("Filters changed. Updating data...");
+                console.log(`Filtering by: ${newMeasure}, ${newCategory}, ${newInstitution}`);
                 this.lastMeasure = newMeasure;
                 this.lastCategory = newCategory;
                 this.lastInstitution = newInstitution;
 
-                // Apply filters
+                // --- DEBUG: Print an example row to compare ---
+                if (manager.table2.getRowCount() > 0) {
+                    console.log("CSV Example Row:", manager.table2.getRow(0).obj);
+                }
+
+                // --- FIX: Add .toLowerCase() to match CSV exactly ---
                 this.currentDataset = manager.table2.getRows().filter(row => {
-                    return row.getString("measure") === newMeasure &&
-                           row.getString("category") === newCategory &&
-                           row.getString("institution") === newInstitution;
+                    return row.getString("measure").trim().toLowerCase() === newMeasure.toLowerCase() &&
+                        row.getString("category").trim().toLowerCase() === newCategory.toLowerCase() &&
+                        row.getString("institution").trim().toLowerCase() === newInstitution.toLowerCase();
                 });
+                
+                console.log(`Dataset filtered. Count: ${this.currentDataset.length}`);
             }
         },
 
@@ -122,11 +155,19 @@
             let maxYear = 0;
 
             this.currentDataset.forEach(row => {
+                // --- DEBUG: Log row data ---
+                console.log("Raw Row:", row.obj);
+
+                // Use getNum for numeric columns
                 let year = row.getNum("year");
                 let cost = row.getNum("cost_value");
                 let level = row.getString("level");
 
-                if (!isNaN(cost)) {
+                // --- DEBUG: Log converted data ---
+                console.log(`Converted: Year=${year} (${typeof year}), Cost=${cost} (${typeof cost})`);
+
+                // Check if values are valid numbers
+                if (!isNaN(cost) && cost !== 0 && !isNaN(year)) {                
                     lines[level].push({x: year, y: cost});
                     if (cost > maxCost) maxCost = cost;
                     if (year < minYear) minYear = year;
