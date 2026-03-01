@@ -9,9 +9,9 @@ function startP5() {
     // --- Sketch manager ----------------------------------------------------
     function SketchManager() {
         // core layout settings (canvas size only)
-        this.width = 600; // content width
-        this.height = 520; // content height
-        this.margin = { top: 0, left: 80, bottom: 40, right: 10 };
+        this.width = 750; // content width
+        this.height = 550; // content height
+        this.margin = { top: 0, left: 0, bottom: 0, right: 0 };
         this.canvasWidth = this.width + this.margin.left + this.margin.right;
         this.canvasHeight = this.height + this.margin.top + this.margin.bottom;
 
@@ -30,6 +30,7 @@ function startP5() {
                 // This loads the CSV and attaches it to the manager (self)
                 self.table1 = p.loadTable('data/df1_college_enrollment_1960_2022_long.csv', 'csv', 'header');
                 self.table2 = p.loadTable('data/df2_tuition_full_long.csv', 'csv', 'header');
+                self.table4 = p.loadTable('data/df4_race_enrollment.csv', 'csv', 'header');
             };
 
             p.setup = function () {

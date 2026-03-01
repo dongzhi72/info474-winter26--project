@@ -45,7 +45,7 @@
             // --- 2. RENDER THE CHART ---
             if (manager.dataProcessed) {
                 // Layout settings
-                const margin = { top: 60, right: 40, bottom: 60, left: 70 };
+                const margin = { top: 60, right: 40, bottom: 60, left: 120 };
                 const chartW = manager.width - margin.left - margin.right;
                 const chartH = manager.height - margin.top - margin.bottom;
                 const startX = margin.left;
