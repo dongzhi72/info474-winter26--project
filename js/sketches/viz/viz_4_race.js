@@ -65,6 +65,48 @@
                 "Asian": [31,119,180]
             };
             
+            // ---- Draw Points + Regression ----
+            for (let race in manager.raceGroups) {
+                let data = manager.raceGroups[race];
+                if (!colors[race]) continue;
+
+                let c = colors[race];
+                p.stroke(c[0],c[1],c[2]);
+                p.fill(c[0],c[1],c[2],80);
+
+                // Draw points (like geom_point alpha=0.3)
+                data.forEach(d=>{
+                p.circle(mapX(d.x), mapY(d.y), 4);
+                });
+
+                // ---- Compute Linear Regression ----
+                let n = data.length;
+                let sumX=0, sumY=0, sumXY=0, sumXX=0;
+
+                data.forEach(d=>{
+                sumX += d.x;
+                sumY += d.y;
+                sumXY += d.x*d.y;
+                sumXX += d.x*d.x;
+                });
+
+                let slope = (n*sumXY - sumX*sumY) / (n*sumXX - sumX*sumX);
+                let intercept = (sumY - slope*sumX)/n;
+
+                // ---- Draw Regression Line ----
+                p.strokeWeight(2);
+                p.noFill();
+
+                let y1 = slope*minYear + intercept;
+                let y2 = slope*maxYear + intercept;
+
+                p.line(
+                mapX(minYear), mapY(y1),
+                mapX(maxYear), mapY(y2)
+                );
+
+                p.strokeWeight(1);
+            }
             
             p.pop();
         }
