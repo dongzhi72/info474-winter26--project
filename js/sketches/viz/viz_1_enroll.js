@@ -54,6 +54,28 @@
                 // Y Axis
                 p.line(startX, startY, startX, startY + chartH);
 
+                // --- Draw Lines ---
+                p.noFill();
+                p.strokeWeight(3);
+
+                // Female Line (Pinkish)
+                p.stroke(230, 80, 150);
+                p.beginShape();
+                manager.femaleData.forEach(d => p.vertex(mapX(d.x), mapY(d.y)));
+                p.endShape();
+
+                // Male Line (Blue)
+                p.stroke(80, 150, 230);
+                p.beginShape();
+                manager.maleData.forEach(d => p.vertex(mapX(d.x), mapY(d.y)));
+                p.endShape();
+
+                // --- Labels & Legend ---
+                p.noStroke();
+                p.fill(50);
+                p.textAlign(p.CENTER);
+                p.textSize(12);
+
                 
             }
 
