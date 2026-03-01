@@ -39,7 +39,46 @@
             
             
             p.pop();
-        }
+        },
         
-    };
+        // Helper to create HTML controls in the 'vis' div
+        createControls: function(p, manager) {
+            // Get the container provided by the manager
+            let container = p.select('#vis');
+            
+            // Create a panel for controls
+            let controls = p.createDiv('').id('viz2-controls');
+            controls.style('position', 'absolute');
+            // Position based on the parent container
+            controls.style('top', '10px');
+            controls.style('left', '10px');
+            controls.style('background', 'rgba(255,255,255,0.8)');
+            controls.style('padding', '10px');
+            controls.style('border-radius', '5px');
+
+            // 1. Measure Select Box (Raw vs Inflation Adjusted)
+            controls.child(p.createSpan('View: '));
+            this.measureSelect = p.createSelect();
+            this.measureSelect.option('raw', 'Raw Cost');
+            this.measureSelect.option('inf', 'Inflation Adjusted');
+            this.measureSelect.selected('inf'); // Default
+            controls.child(this.measureSelect);
+            controls.child(p.createElement('br'));
+
+            // 2. Category Dropdown
+            controls.child(p.createSpan('Type: '));
+            this.categorySelect = p.createSelect();
+            ['total', 'tuition', 'dorm', 'board'].forEach(c => this.categorySelect.option(c));
+            this.categorySelect.selected('total'); // Default
+            controls.child(this.categorySelect);
+            controls.child(p.createElement('br'));
+
+            // 3. Institution Dropdown
+            controls.child(p.createSpan('Institution: '));
+            this.institutionSelect = p.createSelect();
+            ['all_institutions', 'Public_institutions', 'private_non_profit', 'private_for_profit'].forEach(i => this.institutionSelect.option(i));
+            this.institutionSelect.selected('all_institutions'); // Default
+            controls.child(this.institutionSelect);
+        },
+    }
 })();
