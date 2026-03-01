@@ -107,6 +107,30 @@
 
                 p.strokeWeight(1);
             }
+
+            // ---- Labels ----
+            p.noStroke();
+            p.fill(50);
+            p.textAlign(p.CENTER);
+            p.textSize(14);
+            p.textStyle(p.BOLD);
+            p.text("Higher Education Enrollment Trends (1960–2022)", 
+                    startX + chartW/2, startY - 40);
+            p.textStyle(p.NORMAL);
+            p.textSize(12);
+            p.text("Points show annual data; lines show linear best-fit trends",
+                    startX + chartW/2, startY - 20);
+
+            // X-axis ticks
+            for (let yr = 1960; yr <= 2020; yr += 10) {
+                p.text(yr, mapX(yr), startY + chartH + 20);
+            }
+
+            // Y-axis ticks
+            p.textAlign(p.RIGHT);
+            for (let v = minY; v <= maxY; v += 10) {
+                p.text(v + "%", startX - 10, mapY(v)+4);
+            }
             
             p.pop();
         }
