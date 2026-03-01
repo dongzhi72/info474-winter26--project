@@ -80,5 +80,32 @@
             this.institutionSelect.selected('all_institutions'); // Default
             controls.child(this.institutionSelect);
         },
+
+        // Logic to filter data when controls change
+        handleResetVisState: function(manager) {
+            if (!manager.table2) return;
+
+            const newMeasure = this.measureSelect.selected();
+            const newCategory = this.categorySelect.selected();
+            const newInstitution = this.institutionSelect.selected();
+
+            // Check if any filter has changed
+            if (newMeasure !== this.lastMeasure || 
+                newCategory !== this.lastCategory || 
+                newInstitution !== this.lastInstitution) {
+
+                console.log("Filters changed. Updating data...");
+                this.lastMeasure = newMeasure;
+                this.lastCategory = newCategory;
+                this.lastInstitution = newInstitution;
+
+                // Apply filters
+                this.currentDataset = manager.table2.getRows().filter(row => {
+                    return row.getString("measure") === newMeasure &&
+                           row.getString("category") === newCategory &&
+                           row.getString("institution") === newInstitution;
+                });
+            }
+        },
     }
 })();
