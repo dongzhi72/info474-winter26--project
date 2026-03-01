@@ -37,7 +37,7 @@
             }
 
             // ---- Layout ----
-            const margin = { top: 80, right: 60, bottom: 70, left: 80 };
+            const margin = { top: 120, right: 80, bottom: 140, left: 110 };
             const chartW = manager.width - margin.left - margin.right;
             const chartH = manager.height - margin.top - margin.bottom;
             const startX = margin.left;
@@ -90,8 +90,18 @@
                 sumXX += d.x*d.x;
                 });
 
-                let slope = (n*sumXY - sumX*sumY) / (n*sumXX - sumX*sumX);
+                let denominator = (n*sumXX - sumX*sumX);
+
+                if (denominator === 0) {
+                    continue; // skip this race safely
+                }
+
+                let slope = (n*sumXY - sumX*sumY) / denominator;
                 let intercept = (sumY - slope*sumX)/n;
+
+                if (!isFinite(slope) || !isFinite(intercept)) {
+                    continue; // prevent crash
+                }
 
                 // ---- Draw Regression Line ----
                 p.strokeWeight(2);
@@ -111,27 +121,67 @@
             // ---- Labels ----
             p.noStroke();
             p.fill(50);
+
+            // ----- Title -----
             p.textAlign(p.CENTER);
-            p.textSize(14);
+            p.textSize(16);
             p.textStyle(p.BOLD);
             p.text("Higher Education Enrollment Trends (1960–2022)", 
-                    startX + chartW/2, startY - 40);
+                startX + chartW/2, startY - 55);
+
             p.textStyle(p.NORMAL);
             p.textSize(12);
             p.text("Points show annual data; lines show linear best-fit trends",
-                    startX + chartW/2, startY - 20);
+                startX + chartW/2, startY - 35);
 
-            // X-axis ticks
+            // ----- Axis Labels -----
+            p.textSize(12);
+
+            // X Label
+            p.textAlign(p.CENTER);
+            p.text("Year", startX + chartW/2, startY + chartH + 45);
+
+            // Y Label (rotated)
+            p.push();
+            p.translate(startX - 55, startY + chartH/2);
+            p.rotate(-p.HALF_PI);
+            p.textAlign(p.CENTER);
+            p.text("Immediate College Enrollment Rate (%)", 0, 0);
+            p.pop();
+
+            // ----- X-axis ticks -----
+            p.textAlign(p.CENTER);
             for (let yr = 1960; yr <= 2020; yr += 10) {
                 p.text(yr, mapX(yr), startY + chartH + 20);
             }
 
-            // Y-axis ticks
+            // ----- Y-axis ticks -----
             p.textAlign(p.RIGHT);
             for (let v = minY; v <= maxY; v += 10) {
                 p.text(v + "%", startX - 10, mapY(v)+4);
             }
-            
+
+            // ----- Legend (bottom centered) -----
+            let legendY = startY + chartH + 70;
+            let legendX = startX + chartW/2 - 200;
+            let spacing = 100;
+
+            const legendOrder = ["Total", "White", "Black", "Hispanic", "Asian"];
+
+            legendOrder.forEach((race, i) => {
+                if (!colors[race]) return;
+
+                let x = legendX + i * spacing;
+                let c = colors[race];
+
+                p.fill(c[0], c[1], c[2]);
+                p.rect(x, legendY, 18, 18);
+
+                p.fill(50);
+                p.textAlign(p.LEFT);
+                p.text(race, x + 25, legendY + 14);
+            });
+
             p.pop();
         }
     };
