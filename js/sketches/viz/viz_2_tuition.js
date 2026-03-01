@@ -177,16 +177,9 @@
             let maxYear = 0;
 
             this.currentDataset.forEach(row => {
-                // --- DEBUG: Log row data ---
-                console.log("Raw Row:", row.obj);
-
-                // Use getNum for numeric columns
                 let year = row.getNum("year");
                 let cost = row.getNum("cost_value");
                 let level = row.getString("level");
-
-                // --- DEBUG: Log converted data ---
-                console.log(`Converted: Year=${year} (${typeof year}), Cost=${cost} (${typeof cost})`);
 
                 // Check if values are valid numbers
                 if (!isNaN(cost) && cost !== 0 && !isNaN(year)) {                
@@ -215,7 +208,7 @@
             p.strokeWeight(2);
             
             // Define colors for each level
-            const colors = { 'total': p.color(211, 211, 211), '4yr': p.color(230, 80, 150), '2yr': p.color(80, 150, 230) };
+            const colors = { 'total': p.color(211, 211, 211), '4yr': p.color(250, 139, 70), '2yr': p.color(58,125,68) };
 
             Object.keys(lines).forEach(level => {
                 let data = lines[level];
@@ -232,13 +225,43 @@
             p.fill(0);
             p.textAlign(p.CENTER);
             
+            // === ADDED: Main Chart Title ===
+            p.textSize(16);
+            p.textStyle(p.BOLD);
+            p.text("Tuition Trends Over Time", startX + chartW / 2, startY - 30);
+            p.textStyle(p.NORMAL);
+            p.textSize(12);
+            
             // X-Axis Title
             p.text("Year", startX + chartW / 2, startY + chartH + 40);
 
-            // Y-Axis Labels
+            // === ADDED: Y-Axis Title ===
+            p.push();
+            p.translate(startX - 50, startY + chartH / 2);
+            p.rotate(-p.HALF_PI);
+            p.text("Cost ($)", 0, 0);
+            p.pop();
+
+            // Y-Axis Labels & Ticks
             p.textAlign(p.RIGHT);
             for (let v = 0; v <= maxCost; v += (maxCost / 5)) {
-                p.text("$" + Math.round(v/1000) + "k", startX - 10, mapY(v) + 4);
+                let yPos = mapY(v);
+                p.text("$" + Math.round(v/1000) + "k", startX - 10, yPos + 4);
+                // Optional: Add small tick lines
+                p.stroke(50);
+                p.line(startX - 5, yPos, startX, yPos);
+                p.noStroke();
+            }
+
+            // === ADDED: X-Axis Ticks (Years) ===
+            p.textAlign(p.CENTER);
+            for (let year = minYear; year <= maxYear; year += 5) {
+                let xPos = mapX(year);
+                p.text(year, xPos, startY + chartH + 15);
+                // Optional: Add small tick lines
+                p.stroke(50);
+                p.line(xPos, startY + chartH, xPos, startY + chartH + 5);
+                p.noStroke();
             }
 
             // Legend

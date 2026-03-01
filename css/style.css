@@ -91,4 +91,109 @@
 
 }
 
+/* ---------------------------------- */
+
+body {
+  background-color: #faf4f0;
+}
+
+.container {
+  width: 890px;
+}
+
+#graphic {
+  padding-top: 60px;
+}
+
+
+#sections {
+  position: relative;
+  display: inline-block;
+  width: 250px;
+  top: 0px;
+  z-index: 90;
+  padding-bottom: 200px;
+}
+
+.step {
+  margin-bottom: 200px;
+  font-family: "TiemposTextWeb-Regular","Georgia";
+  font-size: 16px;
+  line-height: 23px;
+  color: #3A7D44;           /* pencil green — body text */
+}
+
+#sections .title {
+  font-family: Arial,Helvetica,"san-serif";
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 2px;
+  color: #2C2C2C;           /* graphite — section titles */
+  line-height: 1.2em;
+  border-left: 3px solid #D94F3D;   /* notebook red margin accent */
+  padding-left: 8px;
+}
+
+#extra-space {
+  height: 300px;
+}
+
+#vis {
+  display: inline-block;
+  position: fixed;
+  top: 60px;
+  z-index: 100;
+  margin-left: 0;
+  background-color: #FAF4F0;   /* matches requested canvas background */
+  border-radius: 20px;
+  overflow: hidden;
+  /* height: 600px; */
+  /* width: 600px; */
+}
+
+/* visibility helpers for popup effect controlled by VisualController */
+.vis-hidden {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(20px);
+  transition: opacity 260ms ease, transform 260ms ease;
+}
+.vis-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0px);
+  transition: opacity 260ms ease, transform 260ms ease;
+}
+
+#vis .title {
+  font-size:120px;
+  text-anchor: middle;
+}
+
+#vis .sub-title {
+  font-size:80px;
+  text-anchor: middle;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #A8D4E6;          /* notebook blue — axis lines */
+  shape-rendering: crispEdges;
+}
+
+.highlight {
+  fill: #E8B84B;            /* pencil yellow — highlights */
+  font-weight: bold;
+}
+
+.cough-arrow {
+  stroke: #D94F3D;          /* notebook red — arrows */
+  stroke-width: 4px;
+}
+
+
+
+
+
 
