@@ -10,7 +10,7 @@
         draw: function (p, manager, ai, progress) {
             // --- 1. SCRIPT VISIBILITY CHECK ---
             // If we aren't on section 5, stop immediately
-            if (ai !== 5) return; 
+            if (ai !== 2) return; 
 
             // --- 2. DATA CHECK (Visual Debug) ---
             if (!manager.table3 || !manager.geoData) {
