@@ -31,6 +31,7 @@ function startP5() {
                 self.table1 = p.loadTable('data/df1_college_enrollment_1960_2022_long.csv', 'csv', 'header');
                 self.table2 = p.loadTable('data/df2_tuition_full_long.csv', 'csv', 'header');
                 self.table3 = p.loadTable('data/df3_state_enroll_long.csv', 'csv', 'header')
+                self.geoData = p.loadJSON('data/gz_2010_us_040_00_5m.json');
                 self.table4 = p.loadTable('data/df4_race_enrollment.csv', 'csv', 'header');
             };
 
