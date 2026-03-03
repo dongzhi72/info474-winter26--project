@@ -51,5 +51,54 @@
             this.sliderLabel = p.createSpan(' View: Average (1970-2022)');
             controls.child(this.sliderLabel);
         },
+
+        renderMap: function(p, manager) {
+            let sliderVal = this.yearSlider.value();
+            let currentYear = sliderVal === 0 ? "Average" : this.availableYears[sliderVal - 1];
+            this.sliderLabel.html(` View: ${currentYear}`);
+
+            p.push();
+            p.translate(50, 50); // Adjust to fit your canvas
+
+            manager.geoData.features.forEach(feature => {
+                let stateName = feature.properties.name;
+                let enrollment = 0;
+
+                if (currentYear === "Average") {
+                    enrollment = this.stateAverages[stateName] || 0;
+                } else {
+                    let row = manager.table3.findRow(stateName, "State or jurisdiction");
+                    // Filter table for state AND year
+                    let rows = manager.table3.getRows().filter(r => 
+                        r.getString("State or jurisdiction") === stateName && 
+                        r.getNum("Year") === currentYear
+                    );
+                    enrollment = rows.length > 0 ? rows[0].getNum("Enrollment") : 0;
+                }
+
+                // Color Intensity (Choropleth logic)
+                let intensity = p.map(enrollment, 0, this.maxEnrollment, 0, 1);
+                let stateColor = p.lerpColor(p.color('#f7fbff'), p.color('#08306b'), intensity);
+                
+                p.fill(stateColor);
+                p.stroke(255);
+                p.strokeWeight(0.5);
+
+                // Draw the state shape
+                feature.geometry.coordinates.forEach(polygon => {
+                    p.beginShape();
+                    // Handle MultiPolygon if necessary
+                    let coords = feature.geometry.type === "MultiPolygon" ? polygon[0] : polygon;
+                    coords.forEach(coord => {
+                        // Simple projection: (lon - centerLon) * scale, (lat - centerLat) * -scale
+                        let x = (coord[0] + 95) * 10 + 250; 
+                        let y = (coord[1] - 37) * -12 + 200;
+                        p.vertex(x, y);
+                    });
+                    p.endShape(p.CLOSE);
+                });
+            });
+            p.pop();
+        }
     };
 })();
