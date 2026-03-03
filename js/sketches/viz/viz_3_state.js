@@ -29,5 +29,27 @@
                 this.stateAverages[s] = sums[s] / counts[s];
             }
         },
+
+        createControls: function(p, manager) {
+            let container = p.select('#vis');
+            let controls = p.createDiv('').id('viz3-controls');
+            controls.parent(container);
+            controls.style('position', 'absolute');
+            controls.style('bottom', '20px');
+            controls.style('left', '50%');
+            controls.style('transform', 'translateX(-50%)');
+            controls.style('background', 'white');
+            controls.style('padding', '10px');
+            controls.style('border-radius', '5px');
+            controls.style('border', '1px solid #ccc');
+
+            // Slider: 0 to length of years, plus one for "Average"
+            this.yearSlider = p.createSlider(0, this.availableYears.length, 0, 1);
+            this.yearSlider.style('width', '300px');
+            controls.child(this.yearSlider);
+            
+            this.sliderLabel = p.createSpan(' View: Average (1970-2022)');
+            controls.child(this.sliderLabel);
+        },
     };
 })();
