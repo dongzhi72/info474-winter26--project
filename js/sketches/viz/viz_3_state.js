@@ -27,6 +27,7 @@
             if (controlsDiv) controlsDiv.style.display = 'block';
 
             this.renderMap(p, manager);
+            this.drawLegend(p);
         },
 
         setupMapData: function(manager) {
@@ -125,6 +126,41 @@
             } else {
                 coords.forEach(poly => poly.forEach(ring => renderPolygon(ring)));
             }
-        }
+        },
+        
+        drawLegend: function(p) {
+            let legW = 150;
+            let legH = 15;
+            let legX = 420; // Positioned on the right side
+            let legY = 480;
+
+            p.push();
+            p.noStroke();
+            p.textSize(10);
+            p.textAlign(p.CENTER);
+            
+            // Draw Gradient
+            for (let i = 0; i <= legW; i++) {
+                let inter = p.map(i, 0, legW, 0, 1);
+                let c = p.lerpColor(p.color("#f7fbff"), p.color("#08306b"), inter);
+                p.stroke(c);
+                p.line(legX + i, legY, legX + i, legY + legH);
+            }
+
+            // Labels
+            p.noStroke();
+            p.fill(50);
+            p.textAlign(p.LEFT, p.TOP);
+            p.text("0", legX, legY + legH + 5);
+            
+            p.textAlign(p.RIGHT, p.TOP);
+            // Formats number to millions (e.g., 3.2M)
+            let maxLabel = (this.maxEnrollment / 1000000).toFixed(1) + "M";
+            p.text(maxLabel, legX + legW, legY + legH + 5);
+            
+            p.textAlign(p.CENTER, p.BOTTOM);
+            p.text("Student Enrollment", legX + legW/2, legY - 5);
+            p.pop();
+        },
     };
 })();
