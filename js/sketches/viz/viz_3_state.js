@@ -62,6 +62,13 @@
             this.sliderLabel = p.createSpan(' View: Average');
             controls.child(this.yearSlider);
             controls.child(this.sliderLabel);
+
+            document.addEventListener('sectionChange', function(e) {
+                let controlsDiv = document.getElementById('viz3-controls');
+                if (controlsDiv) {
+                    controlsDiv.style.display = (e.detail.activeIndex === 2) ? 'block' : 'none';
+                }
+            });
         },
 
         renderMap: function(p, manager) {
@@ -100,7 +107,7 @@
                     this.drawShape(p, coords, type, 10, 180, 460, -157, 20);
                 } else {
                     // Mainland: Scale 12, x-center 320, y-center 240
-                    this.drawShape(p, coords, type, 12, 320, 240, -98, 38);
+                    this.drawShape(p, coords, type, 12, 360, 240, -98, 38);
                 }
             });
             p.pop();
@@ -131,7 +138,7 @@
         drawLegend: function(p) {
             let legW = 150;
             let legH = 15;
-            let legX = 420; // Positioned on the right side
+            let legX = 580; // Positioned on the right side
             let legY = 480;
 
             p.push();
@@ -162,5 +169,6 @@
             p.text("Student Enrollment", legX + legW/2, legY - 5);
             p.pop();
         },
+        
     };
 })();
