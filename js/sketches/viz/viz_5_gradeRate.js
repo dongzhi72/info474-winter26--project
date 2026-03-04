@@ -55,11 +55,15 @@
             controls.style('position', 'absolute');
             controls.style('top', '10px');
             controls.style('left', '10px');
+            //controls.style('left', 'auto'); 
             controls.style('background', 'rgba(255,255,255,0.9)');
             controls.style('padding', '15px');
             controls.style('border-radius', '8px');
             controls.style('z-index', '1000'); 
             controls.style('border', '1px solid #ccc');
+
+            // hide initially
+            controls.style('display', 'none');
 
             // 1. Sex Dropdown
             controls.child(p.createSpan('Gender: '));
@@ -80,6 +84,13 @@
             this.controlSelect.option('Private For-profit');
             this.controlSelect.selected('All');
             controls.child(this.controlSelect);
+
+            document.addEventListener('sectionChange', function(e) {
+                let controlsDiv = document.getElementById('grad-controls');
+                if (controlsDiv) {
+                    controlsDiv.style.display = (e.detail.activeIndex === 6) ? 'block' : 'none';
+                }
+            });
         },
 
         handleResetVisState: function(manager) {
@@ -99,7 +110,7 @@
         },
 
         renderChart: function(p, manager) {
-            const margin = { top: 70, right: 100, bottom: 60, left: 70 };
+            const margin = { top: 90, right: 100, bottom: 80, left: 90 };
             const chartW = manager.width - margin.left - margin.right;
             const chartH = manager.height - margin.top - margin.bottom;
             const startX = margin.left;
@@ -108,8 +119,8 @@
             // Organize data by race for separate lines
             let groups = {};
             let maxVal = 0;
-            let minYear = 2000;
-            let maxYear = 2019;
+            //let minYear = 2000;
+            //let maxYear = 2019;
 
             this.currentDataset.forEach(row => {
                 let r = row.getString("race");
@@ -121,8 +132,24 @@
                 if (rate > maxVal) maxVal = rate;
             });
 
+            let minYear = Infinity;
+            let maxYear = -Infinity;
+
+            this.currentDataset.forEach(row => {
+                let year = row.getNum("Year");
+                if (!isNaN(year)) {
+                    if (year < minYear) minYear = year;
+                    if (year > maxYear) maxYear = year;
+                }
+            });
+
+            // Fallback safety (prevents crash if dataset empty)
+            if (minYear === Infinity || maxYear === -Infinity) {
+                minYear = 2000;
+                maxYear = 2019;
+            }
             const mapX = (year) => p.map(year, minYear, maxYear, startX, startX + chartW);
-            const mapY = (val) => p.map(val, 0, 100, startY + chartH, startY); // Graduation % is max 100
+            const mapY = (val) => p.map(val, 0, 100, startY + chartH, startY);
 
             // --- Draw Axes ---
             p.stroke(180);
@@ -163,26 +190,86 @@
             p.fill(0);
             p.noStroke();
             p.textAlign(p.CENTER);
-            p.textSize(16);
-            p.textStyle(p.BOLD);
-            p.text(`2-Year Graduation Rates (${this.lastSex})`, startX + chartW / 2, startY - 35);
-            
-            p.textSize(12);
-            p.textStyle(p.NORMAL);
-            p.text(`Institution Type: ${this.lastControl}`, startX + chartW / 2, startY - 15);
-            p.text("Cohort Entry Year", startX + chartW / 2, startY + chartH + 40);
 
-            // Y-Axis Label
+            p.textSize(18);
+            p.textStyle(p.BOLD);
+            p.text(
+                "2-Year Graduation Rates",
+                startX + chartW / 2,
+                startY - 60
+            );
+
+            p.textSize(13);
+            p.textStyle(p.NORMAL);
+            p.fill(80);
+            // Subtitle line 1
+            p.text(
+                `Gender: ${this.lastSex}`,
+                startX + chartW / 2,
+                startY - 40
+            );
+
+            // Subtitle line 2
+            p.text(
+                `Institution Type: ${this.lastControl}`,
+                startX + chartW / 2,
+                startY - 20
+            );
+
+            // --- Axes ---
+            p.stroke(0);
+            p.strokeWeight(1.5);
+            p.line(startX, startY + chartH, startX + chartW, startY + chartH); // X axis
+            p.line(startX, startY, startX, startY + chartH); // Y axis
+
+            // --- X Axis Label ---
+            p.noStroke();
+            p.fill(0);
+            p.textSize(12);
+            p.textAlign(p.CENTER);
+            p.text("Cohort Entry Year", startX + chartW / 2, startY + chartH + 50);
+
+            // --- Y Axis Label ---
             p.push();
-            p.translate(startX - 45, startY + chartH / 2);
+            p.translate(startX - 60, startY + chartH / 2);
             p.rotate(-p.HALF_PI);
+            p.textAlign(p.CENTER);
             p.text("Graduation Rate (%)", 0, 0);
             p.pop();
 
-            // Y-Axis Ticks
+            // --- Y Axis Ticks ---
             p.textAlign(p.RIGHT);
             for (let i = 0; i <= 100; i += 20) {
-                p.text(i + "%", startX - 10, mapY(i) + 4);
+                let y = mapY(i);
+
+                // Grid line
+                p.stroke(230);
+                p.line(startX, y, startX + chartW, y);
+
+                // Label
+                p.noStroke();
+                p.fill(0);
+                p.text(i + "%", startX - 15, y + 4);
+            }
+
+            // --- X Axis: 2000–2019 (Clean Layout) ---
+            p.textAlign(p.CENTER);
+            p.textSize(10);
+
+            for (let yr = 2000; yr <= 2019; yr++) {
+
+                let x = mapX(yr);
+
+                // Tick mark (every year)
+                p.stroke(0);
+                p.line(x, startY + chartH, x, startY + chartH + 5);
+
+                // Label only every 2 years (prevents overlap)
+                if (yr % 2 === 0) {
+                    p.noStroke();
+                    p.fill(0);
+                    p.text(yr, x, startY + chartH + 18);
+                }
             }
         }
     }

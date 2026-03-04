@@ -37,7 +37,7 @@
             }
 
             // ---- Layout ----
-            const margin = { top: 120, right: 60, bottom: 120, left: 200 };
+            const margin = { top: 100, right: 60, bottom: 120, left: 100 };
             const chartW = manager.width - margin.left - margin.right;
             const chartH = manager.height - margin.top - margin.bottom;
             const startX = margin.left;
