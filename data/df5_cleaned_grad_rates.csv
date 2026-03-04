@@ -1,0 +1,817 @@
+Year,Sex,Control,race,rate
+2000,Total,All,Total,30.5010672138582
+2000,Total,All,Black,26.1103123920336
+2000,Total,All,Hispanic,30.1164311064068
+2000,Total,All,White,31.5385182636055
+2005,Total,All,Total,27.6055417232345
+2005,Total,All,Black,22.776548407455
+2005,Total,All,Hispanic,25.6970610399397
+2005,Total,All,White,28.6843146739369
+2008,Total,All,Total,31.2307049412407
+2008,Total,All,Asian,35.21370166885914
+2008,Total,All,Black,27.6443171817089
+2008,Total,All,Hispanic,35.1326100634927
+2008,Total,All,White,30.0770798894609
+2009,Total,All,Total,30.9367601514358
+2009,Total,All,Asian,36.0146933560477
+2009,Total,All,Black,26.391095194526
+2009,Total,All,Hispanic,36.3483007532281
+2009,Total,All,White,30.1337152850836
+2010,Total,All,Total,29.4195040515353
+2010,Total,All,Asian,35.14753913729024
+2010,Total,All,Black,23.6796557324577
+2010,Total,All,Hispanic,33.8001556701147
+2010,Total,All,White,29.3979052696534
+2011,Total,All,Total,27.86468299528
+2011,Total,All,Asian,33.73655504433408
+2011,Total,All,Black,20.1548518118931
+2011,Total,All,Hispanic,29.89625225506
+2011,Total,All,White,29.0443796414372
+2012,Total,All,Total,29.0285583905064
+2012,Total,All,Asian,35.7686594875603
+2012,Total,All,Black,22.0682609768807
+2012,Total,All,Hispanic,29.8429482583404
+2012,Total,All,White,30.4942102929795
+2013,Total,All,Total,30.3007879480689
+2013,Total,All,Asian,36.1924620099201
+2013,Total,All,Black,22.9665071770335
+2013,Total,All,Hispanic,30.0571336506048
+2013,Total,All,White,32.1710473218369
+2014,Total,All,Total,31.5884315364822
+2014,Total,All,Asian,37.493277656512
+2014,Total,All,Black,25.2752728998576
+2014,Total,All,Hispanic,30.949890057571
+2014,Total,All,White,33.5012249981087
+2015,Total,All,Total,32.3106075243194
+2015,Total,All,Asian,38.2726234293692
+2015,Total,All,Black,27.6388579649579
+2015,Total,All,Hispanic,30.2945418952683
+2015,Total,All,White,34.6365793813604
+2016,Total,All,Total,32.5573179567323
+2016,Total,All,Asian,40.07627367254474
+2016,Total,All,Black,25.1027419702118
+2016,Total,All,Hispanic,31.3062663251591
+2016,Total,All,White,35.3662113193775
+2017,Total,All,Total,33.6030583869683
+2017,Total,All,Asian,41.9073960254046
+2017,Total,All,Black,25.0553355079217
+2017,Total,All,Hispanic,32.225524917784
+2017,Total,All,White,36.5160733962535
+2018,Total,All,Total,34.54634691427
+2018,Total,All,Asian,43.6647236966362
+2018,Total,All,Black,26.5560411590028
+2018,Total,All,Hispanic,32.1917058093407
+2018,Total,All,White,37.6070368800339
+2019,Total,All,Total,34.0718584872735
+2019,Total,All,Asian,44.0921909948459
+2019,Total,All,Black,25.3153390655419
+2019,Total,All,Hispanic,31.2906435861239
+2019,Total,All,White,37.8725238123064
+2000,Total,Public,Total,23.5529626860788
+2000,Total,Public,Black,17.79280683164
+2000,Total,Public,Hispanic,16.7996045565866
+2000,Total,Public,White,25.6745925728026
+2005,Total,Public,Total,20.6230967294694
+2005,Total,Public,Black,12.0570933467098
+2005,Total,Public,Hispanic,15.5553998341567
+2005,Total,Public,White,23.0410222407262
+2008,Total,Public,Total,20.1759766646609
+2008,Total,Public,Asian,27.20480235008621
+2008,Total,Public,Black,11.8360831304242
+2008,Total,Public,Hispanic,15.7537370154548
+2008,Total,Public,White,22.7951295093832
+2009,Total,Public,Total,19.7728707944423
+2009,Total,Public,Asian,27.31881399459694
+2009,Total,Public,Black,11.3042415992601
+2009,Total,Public,Hispanic,15.87744755887
+2009,Total,Public,White,22.5220948840444
+2010,Total,Public,Total,19.5301233533918
+2010,Total,Public,Asian,27.55921589980942
+2010,Total,Public,Black,10.7828416400771
+2010,Total,Public,Hispanic,16.2379750289964
+2010,Total,Public,White,22.4614376749449
+2011,Total,Public,Total,19.9522596110266
+2011,Total,Public,Asian,28.09741686781713
+2011,Total,Public,Black,9.75548229399535
+2011,Total,Public,Hispanic,17.4647629811848
+2011,Total,Public,White,23.4133397726306
+2012,Total,Public,Total,21.949711705994
+2012,Total,Public,Asian,30.72293447293447
+2012,Total,Public,Black,11.6503742171987
+2012,Total,Public,Hispanic,19.0630100163205
+2012,Total,Public,White,25.4561178212782
+2013,Total,Public,Total,23.6296215167493
+2013,Total,Public,Asian,31.64161974104229
+2013,Total,Public,Black,13.2968274486254
+2013,Total,Public,Hispanic,20.6906787273764
+2013,Total,Public,White,27.4031333399229
+2014,Total,Public,Total,25.113515562551
+2014,Total,Public,Asian,33.13029849682981
+2014,Total,Public,Black,14.5700270522074
+2014,Total,Public,Hispanic,22.0989609486655
+2014,Total,Public,White,28.9422500499567
+2015,Total,Public,Total,26.9661112043379
+2015,Total,Public,Asian,35.5104015481374
+2015,Total,Public,Black,16.217661933476
+2015,Total,Public,Hispanic,24.0024386526444
+2015,Total,Public,White,30.8072000194934
+2016,Total,Public,Total,28.2272046688845
+2016,Total,Public,Asian,36.96820819537898
+2016,Total,Public,Black,17.7035412096522
+2016,Total,Public,Hispanic,24.8132972786721
+2016,Total,Public,White,32.4039199714544
+2017,Total,Public,Total,29.2854341882148
+2017,Total,Public,Asian,39.0386695006899
+2017,Total,Public,Black,18.2163821561147
+2017,Total,Public,Hispanic,25.5962285080422
+2017,Total,Public,White,33.6951393947171
+2018,Total,Public,Total,30.2292917079952
+2018,Total,Public,Asian,41.3696888355173
+2018,Total,Public,Black,19.2496373466966
+2018,Total,Public,Hispanic,26.2248231788317
+2018,Total,Public,White,34.7162959244502
+2019,Total,Public,Total,30.1835787628758
+2019,Total,Public,Asian,42.0374249902354
+2019,Total,Public,Black,18.9962318175065
+2019,Total,Public,Hispanic,25.8645636893537
+2019,Total,Public,White,35.0504066105956
+2000,Total,Private Nonprofit,Total,50.0848464279654
+2000,Total,Private Nonprofit,Black,37.5080282594733
+2000,Total,Private Nonprofit,Hispanic,56.2628336755647
+2000,Total,Private Nonprofit,White,49.6252755326965
+2005,Total,Private Nonprofit,Total,48.2669258179462
+2005,Total,Private Nonprofit,Black,41.5902140672783
+2005,Total,Private Nonprofit,Hispanic,47.3200612557427
+2005,Total,Private Nonprofit,White,52.3742170135381
+2008,Total,Private Nonprofit,Total,56.6074057298154
+2008,Total,Private Nonprofit,Asian,53.87149917627677
+2008,Total,Private Nonprofit,Black,53.4428571428572
+2008,Total,Private Nonprofit,Hispanic,62.4027237354086
+2008,Total,Private Nonprofit,White,59.7144896502498
+2009,Total,Private Nonprofit,Total,62.3346717052433
+2009,Total,Private Nonprofit,Asian,57.72113943028486
+2009,Total,Private Nonprofit,Black,59.682899207248
+2009,Total,Private Nonprofit,Hispanic,68.2819383259912
+2009,Total,Private Nonprofit,White,66.0015003750938
+2010,Total,Private Nonprofit,Total,53.4477763291323
+2010,Total,Private Nonprofit,Asian,52.23048327137546
+2010,Total,Private Nonprofit,Black,50.8839190628328
+2010,Total,Private Nonprofit,Hispanic,61.8773946360153
+2010,Total,Private Nonprofit,White,55.9017269004807
+2011,Total,Private Nonprofit,Total,51.2139545847411
+2011,Total,Private Nonprofit,Asian,48.03312629399586
+2011,Total,Private Nonprofit,Black,46.5247338760175
+2011,Total,Private Nonprofit,Hispanic,57.5060532687651
+2011,Total,Private Nonprofit,White,56.2859672421425
+2012,Total,Private Nonprofit,Total,56.5071160518304
+2012,Total,Private Nonprofit,Asian,60.1684717208183
+2012,Total,Private Nonprofit,Black,47.2739541160594
+2012,Total,Private Nonprofit,Hispanic,60.426882030574
+2012,Total,Private Nonprofit,White,63.0735973273067
+2013,Total,Private Nonprofit,Total,59.566091954023
+2013,Total,Private Nonprofit,Asian,75.32467532467533
+2013,Total,Private Nonprofit,Black,50.4008016032064
+2013,Total,Private Nonprofit,Hispanic,64.1124586549063
+2013,Total,Private Nonprofit,White,65.8104738154614
+2014,Total,Private Nonprofit,Total,62.1950458601111
+2014,Total,Private Nonprofit,Asian,81.75355450236967
+2014,Total,Private Nonprofit,Black,57.3126900746475
+2014,Total,Private Nonprofit,Hispanic,65.5714285714286
+2014,Total,Private Nonprofit,White,67.2133977900553
+2015,Total,Private Nonprofit,Total,62.3142970118059
+2015,Total,Private Nonprofit,Asian,73.33333333333333
+2015,Total,Private Nonprofit,Black,59.4874766595841
+2015,Total,Private Nonprofit,Hispanic,63.0118534482759
+2015,Total,Private Nonprofit,White,65.6655074296554
+2016,Total,Private Nonprofit,Total,53.5575485799701
+2016,Total,Private Nonprofit,Asian,84.27672955974843
+2016,Total,Private Nonprofit,Black,41.5956439393939
+2016,Total,Private Nonprofit,Hispanic,68.4905660377358
+2016,Total,Private Nonprofit,White,57.6887913695374
+2017,Total,Private Nonprofit,Total,51.8057187622405
+2017,Total,Private Nonprofit,Asian,83.1223628691983
+2017,Total,Private Nonprofit,Black,36.0928025309781
+2017,Total,Private Nonprofit,Hispanic,60.9338521400778
+2017,Total,Private Nonprofit,White,62.1886120996441
+2018,Total,Private Nonprofit,Total,59.5648854961832
+2018,Total,Private Nonprofit,Asian,84.4444444444445
+2018,Total,Private Nonprofit,Black,52.9347349978099
+2018,Total,Private Nonprofit,Hispanic,66.6666666666667
+2018,Total,Private Nonprofit,White,63.7996407902614
+2019,Total,Private Nonprofit,Total,56.2044914539741
+2019,Total,Private Nonprofit,Asian,85.7142857142857
+2019,Total,Private Nonprofit,Black,44.692618591789
+2019,Total,Private Nonprofit,Hispanic,60.775473399459
+2019,Total,Private Nonprofit,White,63.9060793593011
+2000,Total,Private For-profit,Total,59.0768209954688
+2000,Total,Private For-profit,Black,47.6123010250854
+2000,Total,Private For-profit,Hispanic,60.3474924052657
+2000,Total,Private For-profit,White,63.0904683343995
+2005,Total,Private For-profit,Total,57.8367789554693
+2005,Total,Private For-profit,Black,48.2238936308065
+2005,Total,Private For-profit,Hispanic,61.491724282422
+2005,Total,Private For-profit,White,62.8914671274582
+2008,Total,Private For-profit,Total,61.7317707777032
+2008,Total,Private For-profit,Asian,70.20748100526009
+2008,Total,Private For-profit,Black,52.6413697195181
+2008,Total,Private For-profit,Hispanic,67.9208620385091
+2008,Total,Private For-profit,White,64.0984490550534
+2009,Total,Private For-profit,Total,62.7374039859246
+2009,Total,Private For-profit,Asian,71.61029199190517
+2009,Total,Private For-profit,Black,52.943329788903
+2009,Total,Private For-profit,Hispanic,68.4012604417492
+2009,Total,Private For-profit,White,65.0894261578794
+2010,Total,Private For-profit,Total,62.7619160822537
+2010,Total,Private For-profit,Asian,73.3643189131212
+2010,Total,Private For-profit,Black,53.2534136803641
+2010,Total,Private For-profit,Hispanic,68.2639031397496
+2010,Total,Private For-profit,White,65.7987400621716
+2011,Total,Private For-profit,Total,58.4232106771935
+2011,Total,Private For-profit,Asian,66.41188032321467
+2011,Total,Private For-profit,Black,48.4266751282458
+2011,Total,Private For-profit,Hispanic,62.2194485925067
+2011,Total,Private For-profit,White,62.5084569346864
+2012,Total,Private For-profit,Total,59.9967096759031
+2012,Total,Private For-profit,Asian,71.42437591776799
+2012,Total,Private For-profit,Black,48.9165924606708
+2012,Total,Private For-profit,Hispanic,68.7222048230504
+2012,Total,Private For-profit,White,63.0487973777757
+2013,Total,Private For-profit,Total,59.8363639673092
+2013,Total,Private For-profit,Asian,68.91432106402722
+2013,Total,Private For-profit,Black,47.6360717933752
+2013,Total,Private For-profit,Hispanic,66.2349894042854
+2013,Total,Private For-profit,White,63.863535173642
+2014,Total,Private For-profit,Total,60.9515555422731
+2014,Total,Private For-profit,Asian,70.81861958266452
+2014,Total,Private For-profit,Black,48.1610150290764
+2014,Total,Private For-profit,Hispanic,69.2484662576687
+2014,Total,Private For-profit,White,64.2381401193842
+2015,Total,Private For-profit,Total,60.8116582147336
+2015,Total,Private For-profit,Asian,68.31493038886222
+2015,Total,Private For-profit,Black,51.0665191973455
+2015,Total,Private For-profit,Hispanic,64.8821218074656
+2015,Total,Private For-profit,White,65.0490027510316
+2016,Total,Private For-profit,Total,60.306254475109
+2016,Total,Private For-profit,Asian,72.31514084507043
+2016,Total,Private For-profit,Black,47.9142932258347
+2016,Total,Private For-profit,Hispanic,66.9802570557838
+2016,Total,Private For-profit,White,64.5833333333333
+2017,Total,Private For-profit,Total,61.0820354372911
+2017,Total,Private For-profit,Asian,71.9982078853047
+2017,Total,Private For-profit,Black,48.0198483288082
+2017,Total,Private For-profit,Hispanic,68.427796523299
+2017,Total,Private For-profit,White,64.2866558284635
+2018,Total,Private For-profit,Total,59.5343357543664
+2018,Total,Private For-profit,Asian,69.0498588899342
+2018,Total,Private For-profit,Black,47.236132970859
+2018,Total,Private For-profit,Hispanic,65.2394531577623
+2018,Total,Private For-profit,White,63.8509854884124
+2019,Total,Private For-profit,Total,55.2080964293837
+2019,Total,Private For-profit,Asian,63.3651056775798
+2019,Total,Private For-profit,Black,44.2661704053918
+2019,Total,Private For-profit,Hispanic,60.5673485140872
+2019,Total,Private For-profit,White,60.5352697095436
+2000,Male,All,Total,28.7187997426085
+2000,Male,All,Black,23.0987010103253
+2000,Male,All,Hispanic,27.8526537581284
+2000,Male,All,White,29.952971225282
+2005,Male,All,Total,25.3950496051555
+2005,Male,All,Black,18.6445190889726
+2005,Male,All,Hispanic,21.8018211033744
+2005,Male,All,White,27.161447501337
+2008,Male,All,Total,27.363956184156
+2008,Male,All,Asian,30.85144833995972
+2008,Male,All,Black,22.741922927209
+2008,Male,All,Hispanic,29.0860132328051
+2008,Male,All,White,27.6896245727791
+2009,Male,All,Total,27.220412710201
+2009,Male,All,Asian,31.73097307610769
+2009,Male,All,Black,22.0749860405573
+2009,Male,All,Hispanic,30.0431890122861
+2009,Male,All,White,27.8301660811242
+2010,Male,All,Total,26.1777789870352
+2010,Male,All,Asian,31.49453354792164
+2010,Male,All,Black,19.4560431756853
+2010,Male,All,Hispanic,27.699694222413
+2010,Male,All,White,27.5349593636596
+2011,Male,All,Total,25.2927971648574
+2011,Male,All,Asian,29.87963181496342
+2011,Male,All,Black,16.8308641046853
+2011,Male,All,Hispanic,25.6530019322463
+2011,Male,All,White,27.481895323387
+2012,Male,All,Total,26.5934597422589
+2012,Male,All,Asian,31.8138195777351
+2012,Male,All,Black,18.8314846483315
+2012,Male,All,Hispanic,24.9735404330787
+2012,Male,All,White,29.2123326438414
+2013,Male,All,Total,27.4763313932538
+2013,Male,All,Asian,31.8655709554765
+2013,Male,All,Black,19.0991173101543
+2013,Male,All,Hispanic,25.2523242259688
+2013,Male,All,White,30.5304880401766
+2014,Male,All,Total,28.65611381697
+2014,Male,All,Asian,32.9099944781889
+2014,Male,All,Black,20.8270522769992
+2014,Male,All,Hispanic,26.3150444482192
+2014,Male,All,White,31.8887615370694
+2015,Male,All,Total,29.6462525208109
+2015,Male,All,Asian,35.17241379310344
+2015,Male,All,Black,21.8905676623137
+2015,Male,All,Hispanic,26.6421857055763
+2015,Male,All,White,33.0628483518701
+2016,Male,All,Total,30.965457302415
+2016,Male,All,Asian,36.50911797543729
+2016,Male,All,Black,22.6412745830222
+2016,Male,All,Hispanic,27.6896864437055
+2016,Male,All,White,34.9608341613865
+2017,Male,All,Total,31.8570907533975
+2017,Male,All,Asian,38.2094376212023
+2017,Male,All,Black,22.889973777901
+2017,Male,All,Hispanic,28.5823420277202
+2017,Male,All,White,35.9355671854822
+2018,Male,All,Total,32.6232668879357
+2018,Male,All,Asian,39.5862833220464
+2018,Male,All,Black,24.1163921085623
+2018,Male,All,Hispanic,28.3850070645944
+2018,Male,All,White,37.132841774447
+2019,Male,All,Total,32.3161693626345
+2019,Male,All,Asian,40.1592931367059
+2019,Male,All,Black,23.0279723481207
+2019,Male,All,Hispanic,27.6456667732651
+2019,Male,All,White,37.2586359610275
+2000,Male,Public,Total,22.2200174452974
+2000,Male,Public,Black,16.4950329318438
+2000,Male,Public,Hispanic,15.4434407719154
+2000,Male,Public,White,24.1850035876584
+2005,Male,Public,Total,19.9452385461572
+2005,Male,Public,Black,12.016697104096
+2005,Male,Public,Hispanic,14.6442005461947
+2005,Male,Public,White,22.1507075790502
+2008,Male,Public,Total,19.6467879537856
+2008,Male,Public,Asian,25.12439302200108
+2008,Male,Public,Black,11.9592479968038
+2008,Male,Public,Hispanic,14.8870007007708
+2008,Male,Public,White,22.11600069157
+2009,Male,Public,Total,19.3325363407461
+2009,Male,Public,Asian,25.36744011507912
+2009,Male,Public,Black,11.4080748045655
+2009,Male,Public,Hispanic,14.82261208577
+2009,Male,Public,White,22.0260939866742
+2010,Male,Public,Total,18.9865757042253
+2010,Male,Public,Asian,25.44045102184637
+2010,Male,Public,Black,10.7233023127246
+2010,Male,Public,Hispanic,15.1122185442508
+2010,Male,Public,White,21.9185650081375
+2011,Male,Public,Total,19.4846992457935
+2011,Male,Public,Asian,25.37263551901611
+2011,Male,Public,Black,9.76749444172288
+2011,Male,Public,Hispanic,16.3553304885174
+2011,Male,Public,White,23.0300420655162
+2012,Male,Public,Total,21.3642522526902
+2012,Male,Public,Asian,28.18266294968804
+2012,Male,Public,Black,11.4332462038829
+2012,Male,Public,Hispanic,17.6110703999727
+2012,Male,Public,White,25.0743453558742
+2013,Male,Public,Total,22.877386776077
+2013,Male,Public,Asian,28.43531937734836
+2013,Male,Public,Black,13.0293159609121
+2013,Male,Public,Hispanic,18.9768044663033
+2013,Male,Public,White,26.897479032872
+2014,Male,Public,Total,24.39898432104
+2014,Male,Public,Asian,29.73515248796148
+2014,Male,Public,Black,14.4267060505896
+2014,Male,Public,Hispanic,20.2144402911666
+2014,Male,Public,White,28.6972311089532
+2015,Male,Public,Total,26.1383756376229
+2015,Male,Public,Asian,32.89601240871195
+2015,Male,Public,Black,15.6715295533163
+2015,Male,Public,Hispanic,21.8219861580557
+2015,Male,Public,White,30.4831593082847
+2016,Male,Public,Total,27.2302735283702
+2016,Male,Public,Asian,33.82635802878557
+2016,Male,Public,Black,16.6455810590999
+2016,Male,Public,Hispanic,22.3830333787573
+2016,Male,Public,White,32.0791869574423
+2017,Male,Public,Total,28.0622408873095
+2017,Male,Public,Asian,35.4905909311853
+2017,Male,Public,Black,17.1093852836646
+2017,Male,Public,Hispanic,22.6651355220312
+2017,Male,Public,White,33.205414249591
+2018,Male,Public,Total,28.946247144127
+2018,Male,Public,Asian,37.6901297162047
+2018,Male,Public,Black,17.9256134969325
+2018,Male,Public,Hispanic,23.2460028736511
+2018,Male,Public,White,34.3477819352117
+2019,Male,Public,Total,28.8582513612558
+2019,Male,Public,Asian,38.3579901372784
+2019,Male,Public,Black,17.9854072623002
+2019,Male,Public,Hispanic,22.9130133655561
+2019,Male,Public,White,34.5095556067235
+2000,Male,Private Nonprofit,Total,49.5437199269952
+2000,Male,Private Nonprofit,Black,31.6688567674113
+2000,Male,Private Nonprofit,Hispanic,54.3259557344064
+2000,Male,Private Nonprofit,White,49.2644937986732
+2005,Male,Private Nonprofit,Total,44.4794952681388
+2005,Male,Private Nonprofit,Black,38.6882129277567
+2005,Male,Private Nonprofit,Hispanic,42.9203539823009
+2005,Male,Private Nonprofit,White,49.1727941176471
+2008,Male,Private Nonprofit,Total,49.8438042346407
+2008,Male,Private Nonprofit,Asian,46.30541871921182
+2008,Male,Private Nonprofit,Black,47.311271975181
+2008,Male,Private Nonprofit,Hispanic,49.4137353433836
+2008,Male,Private Nonprofit,White,53.76055257099
+2009,Male,Private Nonprofit,Total,53.649373881932
+2009,Male,Private Nonprofit,Asian,47.74774774774775
+2009,Male,Private Nonprofit,Black,50.9803921568627
+2009,Male,Private Nonprofit,Hispanic,58.1954887218045
+2009,Male,Private Nonprofit,White,57.5125208681135
+2010,Male,Private Nonprofit,Total,46.1507456670697
+2010,Male,Private Nonprofit,Asian,48.82629107981221
+2010,Male,Private Nonprofit,Black,42.494996664443
+2010,Male,Private Nonprofit,Hispanic,52.1042084168337
+2010,Male,Private Nonprofit,White,49.4464944649446
+2011,Male,Private Nonprofit,Total,45.7123411978221
+2011,Male,Private Nonprofit,Asian,42.76729559748428
+2011,Male,Private Nonprofit,Black,38.0055788005579
+2011,Male,Private Nonprofit,Hispanic,48.8938053097345
+2011,Male,Private Nonprofit,White,52.0065970313359
+2012,Male,Private Nonprofit,Total,57.4046130631602
+2012,Male,Private Nonprofit,Asian,55.21885521885523
+2012,Male,Private Nonprofit,Black,42.6862925482981
+2012,Male,Private Nonprofit,Hispanic,58.3333333333333
+2012,Male,Private Nonprofit,White,65.4569595043151
+2013,Male,Private Nonprofit,Total,56.3010935343455
+2013,Male,Private Nonprofit,Asian,73.7864077669903
+2013,Male,Private Nonprofit,Black,39.6775638154948
+2013,Male,Private Nonprofit,Hispanic,58.5127201565558
+2013,Male,Private Nonprofit,White,64.8091781784126
+2014,Male,Private Nonprofit,Total,56.1834561834562
+2014,Male,Private Nonprofit,Asian,79.60526315789474
+2014,Male,Private Nonprofit,Black,42.547928262214
+2014,Male,Private Nonprofit,Hispanic,60.9105180533752
+2014,Male,Private Nonprofit,White,63.8671145949981
+2015,Male,Private Nonprofit,Total,54.6975546975547
+2015,Male,Private Nonprofit,Asian,73.03370786516854
+2015,Male,Private Nonprofit,Black,49.8652291105121
+2015,Male,Private Nonprofit,Hispanic,59.3038821954485
+2015,Male,Private Nonprofit,White,56.5808644973288
+2016,Male,Private Nonprofit,Total,54.3707522849777
+2016,Male,Private Nonprofit,Asian,86.04651162790698
+2016,Male,Private Nonprofit,Black,39.1341991341991
+2016,Male,Private Nonprofit,Hispanic,66.2771285475793
+2016,Male,Private Nonprofit,White,60.484314804623
+2017,Male,Private Nonprofit,Total,52.9923273657289
+2017,Male,Private Nonprofit,Asian,81.6326530612245
+2017,Male,Private Nonprofit,Black,35.0860420650096
+2017,Male,Private Nonprofit,Hispanic,62.7016129032258
+2017,Male,Private Nonprofit,White,64.3641058747579
+2018,Male,Private Nonprofit,Total,64.0612189122711
+2018,Male,Private Nonprofit,Asian,79.0
+2018,Male,Private Nonprofit,Black,55.9216384683883
+2018,Male,Private Nonprofit,Hispanic,66.4220183486239
+2018,Male,Private Nonprofit,White,72.1509971509972
+2019,Male,Private Nonprofit,Total,58.3555951320867
+2019,Male,Private Nonprofit,Asian,89.1666666666667
+2019,Male,Private Nonprofit,Black,43.302752293578
+2019,Male,Private Nonprofit,Hispanic,62.8458498023716
+2019,Male,Private Nonprofit,White,67.3018292682927
+2000,Male,Private For-profit,Total,59.2725582967219
+2000,Male,Private For-profit,Black,45.568969946057
+2000,Male,Private For-profit,Hispanic,58.1500132520541
+2000,Male,Private For-profit,White,63.6763214245464
+2005,Male,Private For-profit,Total,57.8214807842509
+2005,Male,Private For-profit,Black,43.3170938360517
+2005,Male,Private For-profit,Hispanic,57.5638506876228
+2005,Male,Private For-profit,White,64.9226963512678
+2008,Male,Private For-profit,Total,58.8875530771985
+2008,Male,Private For-profit,Asian,68.06282722513089
+2008,Male,Private For-profit,Black,48.1668407007773
+2008,Male,Private For-profit,Hispanic,63.0572908323989
+2008,Male,Private For-profit,White,63.9247198139141
+2009,Male,Private For-profit,Total,59.5796659702958
+2009,Male,Private For-profit,Asian,68.68648852088822
+2009,Male,Private For-profit,Black,49.2857142857143
+2009,Male,Private For-profit,Hispanic,63.777610552875
+2009,Male,Private For-profit,White,63.6784127563752
+2010,Male,Private For-profit,Total,60.8393054024256
+2010,Male,Private For-profit,Asian,72.82658170232135
+2010,Male,Private For-profit,Black,49.4537757749556
+2010,Male,Private For-profit,Hispanic,63.3286170937484
+2010,Male,Private For-profit,White,65.9918884303401
+2011,Male,Private For-profit,Total,57.6571615412415
+2011,Male,Private For-profit,Asian,65.64551422319475
+2011,Male,Private For-profit,Black,45.5957251398514
+2011,Male,Private For-profit,Hispanic,59.9413646055437
+2011,Male,Private For-profit,White,63.3088788562829
+2012,Male,Private For-profit,Total,57.7083152692274
+2012,Male,Private For-profit,Asian,68.29640947288006
+2012,Male,Private For-profit,Black,46.6893780573026
+2012,Male,Private For-profit,Hispanic,63.9398998330551
+2012,Male,Private For-profit,White,61.677951133353
+2013,Male,Private For-profit,Total,57.0893378955518
+2013,Male,Private For-profit,Asian,67.3913043478261
+2013,Male,Private For-profit,Black,44.5422166352399
+2013,Male,Private For-profit,Hispanic,62.855579868709
+2013,Male,Private For-profit,White,61.7721341377859
+2014,Male,Private For-profit,Total,58.2119417320314
+2014,Male,Private For-profit,Asian,66.69456066945607
+2014,Male,Private For-profit,Black,45.9773760439793
+2014,Male,Private For-profit,Hispanic,65.1647985795139
+2014,Male,Private For-profit,White,62.8237325380631
+2015,Male,Private For-profit,Total,59.4530756179514
+2015,Male,Private For-profit,Asian,67.57679180887372
+2015,Male,Private For-profit,Black,49.800853485064
+2015,Male,Private For-profit,Hispanic,62.5816566501176
+2015,Male,Private For-profit,White,64.0475965624705
+2016,Male,Private For-profit,Total,61.2856122036847
+2016,Male,Private For-profit,Asian,73.68995633187772
+2016,Male,Private For-profit,Black,48.2688146188988
+2016,Male,Private For-profit,Hispanic,65.5590211132438
+2016,Male,Private For-profit,White,66.5010893246187
+2017,Male,Private For-profit,Total,61.5701219512195
+2017,Male,Private For-profit,Asian,74.1503604531411
+2017,Male,Private For-profit,Black,49.1493143727781
+2017,Male,Private For-profit,Hispanic,67.4640112566295
+2017,Male,Private For-profit,White,64.9851632047478
+2018,Male,Private For-profit,Total,59.2938201739863
+2018,Male,Private For-profit,Asian,65.5857740585774
+2018,Male,Private For-profit,Black,48.4167517875383
+2018,Male,Private For-profit,Hispanic,63.2247377139702
+2018,Male,Private For-profit,White,64.5276292335116
+2019,Male,Private For-profit,Total,54.9174405223861
+2019,Male,Private For-profit,Asian,62.5396825396826
+2019,Male,Private For-profit,Black,44.1204394412044
+2019,Male,Private For-profit,Hispanic,58.5746329526917
+2019,Male,Private For-profit,White,60.7290671760586
+2000,Female,All,Total,32.0703516389141
+2000,Female,All,Black,28.1308776699752
+2000,Female,All,Hispanic,31.8136013290846
+2000,Female,All,White,33.0319722760556
+2005,Female,All,Total,29.4724683215321
+2005,Female,All,Black,25.4187785679672
+2005,Female,All,Hispanic,28.5617495982101
+2005,Female,All,White,30.0957876319145
+2008,Female,All,Total,34.3671685246611
+2008,Female,All,Asian,39.56808576435419
+2008,Female,All,Black,30.8862141040558
+2008,Female,All,Hispanic,39.3877705709738
+2008,Female,All,White,32.2538782278512
+2009,Female,All,Total,34.0515171670538
+2009,Female,All,Asian,40.33689839572192
+2009,Female,All,Black,29.4173255414232
+2009,Female,All,Hispanic,40.8737340675421
+2009,Female,All,White,32.2902067192154
+2010,Female,All,Total,32.1389172081133
+2010,Female,All,Asian,38.90952734754529
+2010,Female,All,Black,26.705054122243
+2010,Female,All,Hispanic,38.2278505655382
+2010,Female,All,White,31.12000511783
+2011,Female,All,Total,30.0350306833503
+2011,Female,All,Asian,37.85520761136664
+2011,Female,All,Black,22.58110556074
+2011,Female,All,Hispanic,33.1124222948056
+2011,Female,All,White,30.479441273953
+2012,Female,All,Total,31.1598606246401
+2012,Female,All,Asian,39.9833802096651
+2012,Female,All,Black,24.5807606590917
+2012,Female,All,Hispanic,33.6059684995855
+2012,Female,All,White,31.7100787224801
+2013,Female,All,Total,32.7789221556886
+2013,Female,All,Asian,40.789730892031
+2013,Female,All,Black,25.9763755784837
+2013,Female,All,Hispanic,33.7701856530814
+2013,Female,All,White,33.7347814892466
+2014,Female,All,Total,34.1311058010478
+2014,Female,All,Asian,42.3719958202717
+2014,Female,All,Black,28.5635670752679
+2014,Female,All,Hispanic,34.6294319267292
+2014,Female,All,White,35.0037098659951
+2015,Female,All,Total,34.6918144219251
+2015,Female,All,Asian,41.6922460963566
+2015,Female,All,Black,31.762629605118
+2015,Female,All,Hispanic,33.333726595958
+2015,Female,All,White,36.1530843495009
+2016,Female,All,Total,34.060717196414
+2016,Female,All,Asian,44.02692862540359
+2016,Female,All,Black,27.126942695805
+2016,Female,All,Hispanic,34.4045012595052
+2016,Female,All,White,35.7798406741721
+2017,Female,All,Total,35.2452316889098
+2017,Female,All,Asian,46.0480602200347
+2017,Female,All,Black,26.8658312686048
+2017,Female,All,Hispanic,35.3742218449349
+2017,Female,All,White,37.1047335483693
+2018,Female,All,Total,36.3010342629106
+2018,Female,All,Asian,48.2441587169916
+2018,Female,All,Black,28.540503792758
+2018,Female,All,Hispanic,35.3885418765532
+2018,Female,All,White,38.0752462457614
+2019,Female,All,Total,35.6606326397313
+2019,Female,All,Asian,48.3691974556774
+2019,Female,All,Black,27.134224034366
+2019,Female,All,Hispanic,34.3005630142919
+2019,Female,All,White,38.4737724827945
+2000,Female,Public,Total,24.7818133313007
+2000,Female,Public,Black,18.7648197105557
+2000,Female,Public,Hispanic,17.8555728729569
+2000,Female,Public,White,27.1114879479504
+2005,Female,Public,Total,21.2539921069063
+2005,Female,Public,Black,12.0884461183331
+2005,Female,Public,Hispanic,16.3109658399026
+2005,Female,Public,White,23.911364098394
+2008,Female,Public,Total,20.6840125767844
+2008,Female,Public,Asian,29.57573273211724
+2008,Female,Public,Black,11.733180031155
+2008,Female,Public,Hispanic,16.5003489841731
+2008,Female,Public,White,23.4773946360153
+2009,Female,Public,Total,20.2033286534648
+2009,Female,Public,Asian,29.54837787623267
+2009,Female,Public,Black,11.21543741501
+2009,Female,Public,Hispanic,16.8171714365101
+2009,Female,Public,White,23.0296345249585
+2010,Female,Public,Total,20.0512735300401
+2010,Female,Public,Asian,29.96007259528131
+2010,Female,Public,Black,10.8341673418164
+2010,Female,Public,Hispanic,17.2319105886887
+2010,Female,Public,White,23.0012421868427
+2011,Female,Public,Total,20.3982435228499
+2011,Female,Public,Asian,31.28321350422007
+2011,Female,Public,Black,9.74518073262559
+2011,Female,Public,Hispanic,18.446069756151
+2011,Female,Public,White,23.7921683953231
+2012,Female,Public,Total,22.5183384183225
+2012,Female,Public,Asian,33.66374673428616
+2012,Female,Public,Black,11.8495469936854
+2012,Female,Public,Hispanic,20.3477238113907
+2012,Female,Public,White,25.8377578049994
+2013,Female,Public,Total,24.3691820776964
+2013,Female,Public,Asian,35.32403483085459
+2013,Female,Public,Black,13.5480814779725
+2013,Female,Public,Hispanic,22.2112478808874
+2013,Female,Public,White,27.9150867159819
+2014,Female,Public,Total,25.8109586899597
+2014,Female,Public,Asian,36.99893308946807
+2014,Female,Public,Black,14.7017014861081
+2014,Female,Public,Hispanic,23.7782874841123
+2014,Female,Public,White,29.1879848710235
+2015,Female,Public,Total,27.7898018951512
+2015,Female,Public,Asian,38.51466765688823
+2015,Female,Public,Black,16.731976771635
+2015,Female,Public,Hispanic,25.9632363583731
+2015,Female,Public,White,31.1418685121107
+2016,Female,Public,Total,29.2275639573977
+2016,Female,Public,Asian,40.608668920996
+2016,Female,Public,Black,18.7018809082935
+2016,Female,Public,Hispanic,27.0406844870654
+2016,Female,Public,White,32.7428348347463
+2017,Female,Public,Total,30.5029940975547
+2017,Female,Public,Asian,43.1539948453608
+2017,Female,Public,Black,19.2710946122203
+2017,Female,Public,Hispanic,28.2636393569353
+2017,Female,Public,White,34.199698100485
+2018,Female,Public,Total,31.4757456162262
+2018,Female,Public,Asian,45.6269998476307
+2018,Female,Public,Black,20.4791698458721
+2018,Female,Public,Hispanic,28.8639410641496
+2018,Female,Public,White,35.0878574747769
+2019,Female,Public,Total,31.4475420332304
+2019,Female,Public,Asian,46.2339439081858
+2019,Female,Public,Black,19.913442217528
+2019,Female,Public,Hispanic,28.4336360371454
+2019,Female,Public,White,35.5868199983688
+2000,Female,Private Nonprofit,Total,50.6511547143601
+2000,Female,Private Nonprofit,Black,43.0904522613065
+2000,Female,Private Nonprofit,Hispanic,58.2809224318658
+2000,Female,Private Nonprofit,White,50.0
+2005,Female,Private Nonprofit,Total,51.3035019455253
+2005,Female,Private Nonprofit,Black,44.9450549450549
+2005,Female,Private Nonprofit,Hispanic,49.6487119437939
+2005,Female,Private Nonprofit,White,54.8864046159394
+2008,Female,Private Nonprofit,Total,59.8823529411765
+2008,Female,Private Nonprofit,Asian,57.67326732673267
+2008,Female,Private Nonprofit,Black,55.7836557441769
+2008,Female,Private Nonprofit,Hispanic,67.7176148046607
+2008,Female,Private Nonprofit,White,63.2416458285974
+2009,Female,Private Nonprofit,Total,66.6137845936894
+2009,Female,Private Nonprofit,Asian,62.69662921348315
+2009,Female,Private Nonprofit,Black,63.3601841196778
+2009,Female,Private Nonprofit,Hispanic,72.4610591900312
+2009,Female,Private Nonprofit,White,70.7659873506676
+2010,Female,Private Nonprofit,Total,57.5418362731796
+2010,Female,Private Nonprofit,Asian,54.46153846153846
+2010,Female,Private Nonprofit,Black,54.8185231539424
+2010,Female,Private Nonprofit,Hispanic,66.447985004686
+2010,Female,Private Nonprofit,White,59.9594085242099
+2011,Female,Private Nonprofit,Total,54.1291020555355
+2011,Female,Private Nonprofit,Asian,50.61728395061728
+2011,Female,Private Nonprofit,Black,50.163836759011
+2011,Female,Private Nonprofit,Hispanic,60.75
+2011,Female,Private Nonprofit,White,59.1700629862912
+2012,Female,Private Nonprofit,Total,56.0681147195276
+2012,Female,Private Nonprofit,Asian,62.92134831460674
+2012,Female,Private Nonprofit,Black,49.1787624140565
+2012,Female,Private Nonprofit,Hispanic,61.3438407299875
+2012,Female,Private Nonprofit,White,61.1700247437257
+2013,Female,Private Nonprofit,Total,60.7777471336827
+2013,Female,Private Nonprofit,Asian,76.27627627627628
+2013,Female,Private Nonprofit,Black,53.4916741964631
+2013,Female,Private Nonprofit,Hispanic,66.3085188027628
+2013,Female,Private Nonprofit,White,66.3616445418224
+2014,Female,Private Nonprofit,Total,63.6093876449959
+2014,Female,Private Nonprofit,Asian,82.96296296296296
+2014,Female,Private Nonprofit,Black,59.8982022958631
+2014,Female,Private Nonprofit,Hispanic,66.9440591770689
+2014,Female,Private Nonprofit,White,68.2201010668164
+2015,Female,Private Nonprofit,Total,63.696733073047
+2015,Female,Private Nonprofit,Asian,73.50157728706624
+2015,Female,Private Nonprofit,Black,60.7926294238081
+2015,Female,Private Nonprofit,Hispanic,63.9460370994941
+2015,Female,Private Nonprofit,White,67.4313225715095
+2016,Female,Private Nonprofit,Total,53.1767804235707
+2016,Female,Private Nonprofit,Asian,83.06878306878306
+2016,Female,Private Nonprofit,Black,42.5219941348974
+2016,Female,Private Nonprofit,Hispanic,69.8284561049445
+2016,Female,Private Nonprofit,White,56.2979189485213
+2017,Female,Private Nonprofit,Total,51.2817617165443
+2017,Female,Private Nonprofit,Asian,84.1726618705036
+2017,Female,Private Nonprofit,Black,36.4761558063342
+2017,Female,Private Nonprofit,Hispanic,59.8225602027884
+2017,Female,Private Nonprofit,White,61.0451306413302
+2018,Female,Private Nonprofit,Total,57.8222645906154
+2018,Female,Private Nonprofit,Asian,87.6470588235294
+2018,Female,Private Nonprofit,Black,51.9604995643334
+2018,Female,Private Nonprofit,Hispanic,66.8571428571429
+2018,Female,Private Nonprofit,White,60.5489326309953
+2019,Female,Private Nonprofit,Total,55.4556726596404
+2019,Female,Private Nonprofit,Asian,83.0065359477124
+2019,Female,Private Nonprofit,Black,45.1121572971476
+2019,Female,Private Nonprofit,Hispanic,59.0381426202322
+2019,Female,Private Nonprofit,White,62.8407460545194
+2000,Female,Private For-profit,Total,58.9389091450257
+2000,Female,Private For-profit,Black,48.5936343449297
+2000,Female,Private For-profit,Hispanic,61.8258001248106
+2000,Female,Private For-profit,White,62.6147698502272
+2005,Female,Private For-profit,Total,57.8449925808047
+2005,Female,Private For-profit,Black,50.0019188701692
+2005,Female,Private For-profit,Hispanic,63.339494762785
+2005,Female,Private For-profit,White,61.5420432758148
+2008,Female,Private For-profit,Total,63.1584687534082
+2008,Female,Private For-profit,Asian,71.42857142857143
+2008,Female,Private For-profit,Black,54.6641839972726
+2008,Female,Private For-profit,Hispanic,70.3254929912093
+2008,Female,Private For-profit,White,64.1980046047583
+2009,Female,Private For-profit,Total,64.4220989225831
+2009,Female,Private For-profit,Asian,73.43346632245952
+2009,Female,Private For-profit,Black,54.7206465148807
+2009,Female,Private For-profit,Hispanic,70.7386935797883
+2009,Female,Private For-profit,White,65.9649189056511
+2010,Female,Private For-profit,Total,63.7745436068668
+2010,Female,Private For-profit,Asian,73.71209891080365
+2010,Female,Private For-profit,Black,54.984292868029
+2010,Female,Private For-profit,Hispanic,70.6546848424847
+2010,Female,Private For-profit,White,65.6769969054133
+2011,Female,Private For-profit,Total,58.8202242180463
+2011,Female,Private For-profit,Asian,66.92111959287533
+2011,Female,Private For-profit,Black,49.7387871986378
+2011,Female,Private For-profit,Hispanic,63.364479721357
+2011,Female,Private For-profit,White,62.0406256012754
+2012,Female,Private For-profit,Total,61.2917867877078
+2012,Female,Private For-profit,Asian,73.37786259541986
+2012,Female,Private For-profit,Black,50.0629439798579
+2012,Female,Private For-profit,Hispanic,70.9615119326804
+2012,Female,Private For-profit,White,63.932870106694
+2013,Female,Private For-profit,Total,61.4112458654906
+2013,Female,Private For-profit,Asian,69.80854197349042
+2013,Female,Private For-profit,Black,49.2891525803202
+2013,Female,Private For-profit,Hispanic,67.7351984069163
+2013,Female,Private For-profit,White,65.238446637764
+2014,Female,Private For-profit,Total,62.5840606667621
+2014,Female,Private For-profit,Asian,73.38541666666667
+2014,Female,Private For-profit,Black,49.3743758444458
+2014,Female,Private For-profit,Hispanic,71.2512926577042
+2014,Female,Private For-profit,White,65.1823134953898
+2015,Female,Private For-profit,Total,61.7548559946417
+2015,Female,Private For-profit,Asian,68.85382059800665
+2015,Female,Private For-profit,Black,51.8106548465334
+2015,Female,Private For-profit,Hispanic,66.2679049268062
+2015,Female,Private For-profit,White,65.8856015779093
+2016,Female,Private For-profit,Total,59.6415014761704
+2016,Female,Private For-profit,Asian,71.38643067846607
+2016,Female,Private For-profit,Black,47.7109762824049
+2016,Female,Private For-profit,Hispanic,67.8084585809158
+2016,Female,Private For-profit,White,62.8195880419973
+2017,Female,Private For-profit,Total,60.7377137326594
+2017,Female,Private For-profit,Asian,70.3409992069786
+2017,Female,Private For-profit,Black,47.360225418953
+2017,Female,Private For-profit,Hispanic,69.0560180612389
+2017,Female,Private For-profit,White,63.619178553016
+2018,Female,Private For-profit,Total,59.6970252275365
+2018,Female,Private For-profit,Asian,71.8803418803419
+2018,Female,Private For-profit,Black,46.5321659687857
+2018,Female,Private For-profit,Hispanic,66.4728551145967
+2018,Female,Private For-profit,White,63.2111251580278
+2019,Female,Private For-profit,Total,55.4228540921045
+2019,Female,Private For-profit,Asian,63.8964577656676
+2019,Female,Private For-profit,Black,44.3520665121113
+2019,Female,Private For-profit,Hispanic,61.7811451993541
+2019,Female,Private For-profit,White,60.3242024965326
