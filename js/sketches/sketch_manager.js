@@ -33,6 +33,7 @@ function startP5() {
                 self.table3 = p.loadTable('data/df3_state_enroll_long.csv', 'csv', 'header')
                 self.geoData = p.loadJSON('data/gz_2010_us_040_00_5m.json');
                 self.table4 = p.loadTable('data/df4_race_enrollment.csv', 'csv', 'header');
+                self.table7 = p.loadTable('data/df7_recent-grads.csv', 'csv', 'header');
             };
 
             p.setup = function () {
