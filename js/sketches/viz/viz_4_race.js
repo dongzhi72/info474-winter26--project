@@ -71,8 +71,16 @@
                 if (!colors[race]) continue;
 
                 let c = colors[race];
-                p.stroke(c[0],c[1],c[2]);
-                p.fill(c[0],c[1],c[2],60);
+                // ---- POINTS: fade out from 60% to 100% scroll ----
+                let pointAlpha = p.map(progress, 0.6, 1, 60, 0, true);
+
+                // lighter stroke
+                p.stroke(c[0], c[1], c[2], pointAlpha * 0.6);
+                p.fill(c[0], c[1], c[2], pointAlpha);
+
+                data.forEach(d=>{
+                    p.circle(mapX(d.x), mapY(d.y), 4);
+                });
 
                 // Draw points (like geom_point alpha=0.3)
                 data.forEach(d=>{
@@ -107,15 +115,28 @@
                 p.strokeWeight(2);
                 p.noFill();
 
-                let y1 = slope*minYear + intercept;
-                let y2 = slope*maxYear + intercept;
+                // ---- Animate regression line from 60% → 100% ----
 
-                p.line(
-                mapX(minYear), mapY(y1),
-                mapX(maxYear), mapY(y2)
-                );
+                // Remap progress so growth starts at 60%
+                let t = p.map(progress, 0.6, 1, 0, 1, true);
 
-                p.strokeWeight(1);
+                // If before 60%, do not draw line
+                if (progress > 0.6) {
+
+                    let animatedYear = minYear + (maxYear - minYear) * t;
+
+                    let yStart = slope * minYear + intercept;
+                    let yEnd = slope * animatedYear + intercept;
+
+                    p.strokeWeight(2.5);
+                    p.stroke(c[0], c[1], c[2]);
+                    p.noFill();
+
+                    p.line(
+                        mapX(minYear), mapY(yStart),
+                        mapX(animatedYear), mapY(yEnd)
+                    );
+                }
             }
 
             // ---- Labels ----
