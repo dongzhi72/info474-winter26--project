@@ -1,0 +1,897 @@
+year,Institution Type,Length,Number enrolled,Number awarded financial aid,Percent awarded aid,Aid Type,Dollar type,Average award for students in aid programs
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,Federal grants,Raw dollar amount,2486.49788549876
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,Federal grants,Raw dollar amount,2739.03579023945
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,Federal grants,Raw dollar amount,2946.97587260029
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,Federal grants,Raw dollar amount,2933.55828802672
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,Federal grants,Raw dollar amount,2939.09966729859
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,Federal grants,Raw dollar amount,2959.24971795311
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,Federal grants,Raw dollar amount,3130.97251626837
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,Federal grants,Raw dollar amount,3380.78684732505
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,Federal grants,Raw dollar amount,3926.89503990847
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,Federal grants,Raw dollar amount,4693.47190920866
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,Federal grants,Raw dollar amount,4758.1694756828
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,Federal grants,Raw dollar amount,4423.94752770197
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,Federal grants,Raw dollar amount,4452.04558096726
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,Federal grants,Raw dollar amount,4532.53819043782
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,Federal grants,Raw dollar amount,4599.3861572799
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,Federal grants,Raw dollar amount,4682.00584106565
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,Federal grants,Raw dollar amount,4700.30716292255
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,Federal grants,Raw dollar amount,4926.48394723862
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,Federal grants,Raw dollar amount,5082.06425474824
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,Federal grants,Raw dollar amount,4587.03859777362
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,Federal grants,Raw dollar amount,4721.13557038017
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,Federal grants,Raw dollar amount,4983.17089849097
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,Federal grants,Raw dollar amount,2407.81846278487
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,Federal grants,Raw dollar amount,2925.79990382242
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,Federal grants,Raw dollar amount,4764.97280557379
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,Federal grants,Raw dollar amount,4636.20365509392
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,Federal grants,Raw dollar amount,4640.84440285718
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,Federal grants,Raw dollar amount,4907.27049866617
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,Federal grants,Raw dollar amount,5048.82938867618
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,Federal grants,Raw dollar amount,4575.75530172487
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,Federal grants,Raw dollar amount,4628.21984625469
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,Federal grants,Raw dollar amount,4920.74067661216
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,Federal grants,Raw dollar amount,2569.29347002535
+2005,Public,4-year,906948.0,695017.0,76.632508148207,Federal grants,Raw dollar amount,3070.61442021886
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,Federal grants,Raw dollar amount,4983.44706328042
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,Federal grants,Raw dollar amount,4706.62281080619
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,Federal grants,Raw dollar amount,4723.23504382727
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,Federal grants,Raw dollar amount,4958.48032341284
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,Federal grants,Raw dollar amount,5089.0595802317
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,Federal grants,Raw dollar amount,4437.42865695503
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,Federal grants,Raw dollar amount,4608.49905466517
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,Federal grants,Raw dollar amount,4785.7448988381
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,Federal grants,Raw dollar amount,2222.30059536603
+2005,Public,2-year,603320.0,371024.0,61.497049658556,Federal grants,Raw dollar amount,2773.52340667016
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,Federal grants,Raw dollar amount,4557.29609736694
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,Federal grants,Raw dollar amount,4542.23235531629
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,Federal grants,Raw dollar amount,4527.37259062258
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,Federal grants,Raw dollar amount,4833.03841823993
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,Federal grants,Raw dollar amount,4987.70621737227
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,Federal grants,Raw dollar amount,4819.15908789957
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,Federal grants,Raw dollar amount,4667.82100232674
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,Federal grants,Raw dollar amount,5209.22779631023
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,Federal grants,Raw dollar amount,2878.71646187713
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,Federal grants,Raw dollar amount,3426.41943791289
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,Federal grants,Raw dollar amount,5076.40171556796
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,Federal grants,Raw dollar amount,4997.80401920215
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,Federal grants,Raw dollar amount,5096.89229316855
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,Federal grants,Raw dollar amount,5217.58840408945
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,Federal grants,Raw dollar amount,5387.36725915554
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,Federal grants,Raw dollar amount,4576.16848472316
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,Federal grants,Raw dollar amount,5026.86912430945
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,Federal grants,Raw dollar amount,5281.36719877003
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,Federal grants,Raw dollar amount,2930.44814978853
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,Federal grants,Raw dollar amount,3437.4440018705
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,Federal grants,Raw dollar amount,5104.53282280604
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,Federal grants,Raw dollar amount,4930.57278508473
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,Federal grants,Raw dollar amount,4928.67923833537
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,Federal grants,Raw dollar amount,5148.88196803078
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,Federal grants,Raw dollar amount,5319.69873334029
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,Federal grants,Raw dollar amount,4506.77090478953
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,Federal grants,Raw dollar amount,4990.05635122269
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,Federal grants,Raw dollar amount,5248.0144128078
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,Federal grants,Raw dollar amount,2269.3821603928
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,Federal grants,Raw dollar amount,3176.37481060606
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,Federal grants,Raw dollar amount,4552.65782079301
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,Federal grants,Raw dollar amount,5373.79462026413
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,Federal grants,Raw dollar amount,5641.2980730387
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,Federal grants,Raw dollar amount,5623.80179041601
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,Federal grants,Raw dollar amount,5834.07435200429
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,Federal grants,Raw dollar amount,5730.89801656661
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,Federal grants,Raw dollar amount,5589.94315084495
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,Federal grants,Raw dollar amount,5822.62467298888
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,Federal grants,Raw dollar amount,2312.21768389662
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,Federal grants,Raw dollar amount,2725.13554330838
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,Federal grants,Raw dollar amount,4493.94821283346
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,Federal grants,Raw dollar amount,4460.44894348398
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,Federal grants,Raw dollar amount,4353.94263314974
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,Federal grants,Raw dollar amount,4481.18448643865
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,Federal grants,Raw dollar amount,4689.08791559048
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,Federal grants,Raw dollar amount,4708.55386484181
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,Federal grants,Raw dollar amount,4854.4776183439
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,Federal grants,Raw dollar amount,4960.4096491774
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,Federal grants,Raw dollar amount,2295.37697015283
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,Federal grants,Raw dollar amount,2490.38212515909
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,Federal grants,Raw dollar amount,4733.00780657053
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,Federal grants,Raw dollar amount,4641.08345357106
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,Federal grants,Raw dollar amount,4646.25181208785
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,Federal grants,Raw dollar amount,4879.0314746276
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,Federal grants,Raw dollar amount,4969.85620777027
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,Federal grants,Raw dollar amount,4855.25245150862
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,Federal grants,Raw dollar amount,4844.6065985452
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,Federal grants,Raw dollar amount,5287.79847971305
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,Federal grants,Raw dollar amount,2319.12121764236
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,Federal grants,Raw dollar amount,2884.94104906126
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,Federal grants,Raw dollar amount,4373.95655933485
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,Federal grants,Raw dollar amount,4372.68246119179
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,Federal grants,Raw dollar amount,4216.81749734753
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,Federal grants,Raw dollar amount,4275.87428968304
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,Federal grants,Raw dollar amount,4528.14121695226
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,Federal grants,Raw dollar amount,4631.558056671
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,Federal grants,Raw dollar amount,4859.34616534503
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,Federal grants,Raw dollar amount,4809.69662036266
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,State/local grants,Raw dollar amount,2038.85243518883
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,State/local grants,Raw dollar amount,2056.97047173154
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,State/local grants,Raw dollar amount,2188.73759263077
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,State/local grants,Raw dollar amount,2226.19239202848
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,State/local grants,Raw dollar amount,2343.42110590986
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,State/local grants,Raw dollar amount,2440.98005458331
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,State/local grants,Raw dollar amount,2525.84807122476
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,State/local grants,Raw dollar amount,2586.30923420251
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,State/local grants,Raw dollar amount,2706.01292412516
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,State/local grants,Raw dollar amount,2771.19331798082
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,State/local grants,Raw dollar amount,2842.79256458358
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,State/local grants,Raw dollar amount,2912.4231430608
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,State/local grants,Raw dollar amount,3051.04889189106
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,State/local grants,Raw dollar amount,3100.81767719051
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,State/local grants,Raw dollar amount,3214.09376866415
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,State/local grants,Raw dollar amount,3374.7861290538
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,State/local grants,Raw dollar amount,3463.22072587577
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,State/local grants,Raw dollar amount,3681.87883403006
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,State/local grants,Raw dollar amount,3809.56942626534
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,State/local grants,Raw dollar amount,3860.58836626613
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,State/local grants,Raw dollar amount,3969.65366556965
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,State/local grants,Raw dollar amount,4116.49758329804
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,State/local grants,Raw dollar amount,1706.68238428582
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,State/local grants,Raw dollar amount,2226.33467733504
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,State/local grants,Raw dollar amount,2676.48835984393
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,State/local grants,Raw dollar amount,3237.63573629423
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,State/local grants,Raw dollar amount,3331.89485248538
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,State/local grants,Raw dollar amount,3556.5163795538
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,State/local grants,Raw dollar amount,3687.28942903914
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,State/local grants,Raw dollar amount,3739.65848997991
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,State/local grants,Raw dollar amount,3849.69949653379
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,State/local grants,Raw dollar amount,3988.70298564354
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,State/local grants,Raw dollar amount,2067.96416154689
+2005,Public,4-year,906948.0,695017.0,76.632508148207,State/local grants,Raw dollar amount,2752.1805725383
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,State/local grants,Raw dollar amount,3468.74992888913
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,State/local grants,Raw dollar amount,3904.98943319165
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,State/local grants,Raw dollar amount,3995.58438797158
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,State/local grants,Raw dollar amount,4249.84593318737
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,State/local grants,Raw dollar amount,4412.20280236464
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,State/local grants,Raw dollar amount,4535.60571715038
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,State/local grants,Raw dollar amount,4542.51129633843
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,State/local grants,Raw dollar amount,4716.62914070679
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,State/local grants,Raw dollar amount,1009.42757724175
+2005,Public,2-year,603320.0,371024.0,61.497049658556,State/local grants,Raw dollar amount,1314.2331872599
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,State/local grants,Raw dollar amount,1418.27068483732
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,State/local grants,Raw dollar amount,2010.06965052437
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,State/local grants,Raw dollar amount,2098.18733687475
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,State/local grants,Raw dollar amount,2209.35398021567
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,State/local grants,Raw dollar amount,2288.9017211461
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,State/local grants,Raw dollar amount,2279.50820647282
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,State/local grants,Raw dollar amount,2383.52296745892
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,State/local grants,Raw dollar amount,2398.94953594827
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,State/local grants,Raw dollar amount,2997.73673866122
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,State/local grants,Raw dollar amount,3117.04194001397
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,State/local grants,Raw dollar amount,3555.66238007187
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,State/local grants,Raw dollar amount,4012.96551510217
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,State/local grants,Raw dollar amount,4124.93260267168
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,State/local grants,Raw dollar amount,4366.26291394767
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,State/local grants,Raw dollar amount,4492.46898889749
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,State/local grants,Raw dollar amount,4595.36059736766
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,State/local grants,Raw dollar amount,4653.08939622704
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,State/local grants,Raw dollar amount,4851.15574476064
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,State/local grants,Raw dollar amount,3001.44292869138
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,State/local grants,Raw dollar amount,3120.72635673479
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,State/local grants,Raw dollar amount,3573.77964392243
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,State/local grants,Raw dollar amount,4017.03750108762
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,State/local grants,Raw dollar amount,4124.57563214396
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,State/local grants,Raw dollar amount,4370.19588939178
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,State/local grants,Raw dollar amount,4506.22989670303
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,State/local grants,Raw dollar amount,4605.52909878001
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,State/local grants,Raw dollar amount,4665.21181054099
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,State/local grants,Raw dollar amount,4862.16949225696
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,State/local grants,Raw dollar amount,2892.15679662803
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,State/local grants,Raw dollar amount,2973.6281148429
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,State/local grants,Raw dollar amount,2834.88503130336
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,State/local grants,Raw dollar amount,3809.65086887836
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,State/local grants,Raw dollar amount,4145.10669642857
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,State/local grants,Raw dollar amount,4129.56529850746
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,State/local grants,Raw dollar amount,3466.6757524134
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,State/local grants,Raw dollar amount,3778.21442125237
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,State/local grants,Raw dollar amount,3653.95916955017
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,State/local grants,Raw dollar amount,3993.12037659718
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,State/local grants,Raw dollar amount,2493.56887136903
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,State/local grants,Raw dollar amount,2795.54636611584
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,State/local grants,Raw dollar amount,3028.43229201808
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,State/local grants,Raw dollar amount,3841.44902400871
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,State/local grants,Raw dollar amount,3489.60004669624
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,State/local grants,Raw dollar amount,3333.70453247001
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,State/local grants,Raw dollar amount,3361.75952590851
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,State/local grants,Raw dollar amount,3216.46800595238
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,State/local grants,Raw dollar amount,3374.44922380336
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,State/local grants,Raw dollar amount,3462.62162489406
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,State/local grants,Raw dollar amount,2888.70509771482
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,State/local grants,Raw dollar amount,2944.93311512737
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,State/local grants,Raw dollar amount,2949.87687617261
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,State/local grants,Raw dollar amount,3715.23559479554
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,State/local grants,Raw dollar amount,3609.24606780846
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,State/local grants,Raw dollar amount,3823.96478279207
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,State/local grants,Raw dollar amount,3583.89407086045
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,State/local grants,Raw dollar amount,3716.0857696031
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,State/local grants,Raw dollar amount,3645.76736539252
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,State/local grants,Raw dollar amount,3510.58705970522
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,State/local grants,Raw dollar amount,2313.97668953849
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,State/local grants,Raw dollar amount,2705.60970699109
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,State/local grants,Raw dollar amount,3088.06913946588
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,State/local grants,Raw dollar amount,3940.25269795077
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,State/local grants,Raw dollar amount,3393.54076048828
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,State/local grants,Raw dollar amount,2930.09097222222
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,State/local grants,Raw dollar amount,3099.01667735728
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,State/local grants,Raw dollar amount,2754.58761410417
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,State/local grants,Raw dollar amount,3075.07641723356
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,State/local grants,Raw dollar amount,3417.50751879699
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,Institutional grants,Raw dollar amount,4739.62673806365
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,Institutional grants,Raw dollar amount,4917.8711885472
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,Institutional grants,Raw dollar amount,5267.08874315508
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,Institutional grants,Raw dollar amount,5648.13944896248
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,Institutional grants,Raw dollar amount,5957.96962092102
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,Institutional grants,Raw dollar amount,6212.99117053648
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,Institutional grants,Raw dollar amount,6597.87906867182
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,Institutional grants,Raw dollar amount,6808.47991468267
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,Institutional grants,Raw dollar amount,7518.36400705112
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,Institutional grants,Raw dollar amount,7692.89955830045
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,Institutional grants,Raw dollar amount,8393.49971178453
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,Institutional grants,Raw dollar amount,8766.88635529314
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,Institutional grants,Raw dollar amount,9222.7971193074
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,Institutional grants,Raw dollar amount,9603.0022996248
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,Institutional grants,Raw dollar amount,10066.4229216652
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,Institutional grants,Raw dollar amount,10352.6639433536
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,Institutional grants,Raw dollar amount,10771.6675297341
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,Institutional grants,Raw dollar amount,11233.0258989048
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,Institutional grants,Raw dollar amount,11648.4848881761
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,Institutional grants,Raw dollar amount,11716.9507989355
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,Institutional grants,Raw dollar amount,11719.3483966494
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,Institutional grants,Raw dollar amount,12499.7664020153
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,Institutional grants,Raw dollar amount,2274.56651846955
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,Institutional grants,Raw dollar amount,3161.93347916716
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,Institutional grants,Raw dollar amount,4160.28035618907
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,Institutional grants,Raw dollar amount,5322.08327565169
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,Institutional grants,Raw dollar amount,5497.97836864143
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,Institutional grants,Raw dollar amount,5549.27923477088
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,Institutional grants,Raw dollar amount,5665.7313451782
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,Institutional grants,Raw dollar amount,5775.93491976409
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,Institutional grants,Raw dollar amount,5660.25774760703
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,Institutional grants,Raw dollar amount,6055.47289158193
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,Institutional grants,Raw dollar amount,2616.0028642841
+2005,Public,4-year,906948.0,695017.0,76.632508148207,Institutional grants,Raw dollar amount,3573.22036204639
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,Institutional grants,Raw dollar amount,4634.25007525952
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,Institutional grants,Raw dollar amount,5812.3943690928
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,Institutional grants,Raw dollar amount,5995.36917608137
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,Institutional grants,Raw dollar amount,6092.90697326559
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,Institutional grants,Raw dollar amount,6213.9927283192
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,Institutional grants,Raw dollar amount,6347.067200569
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,Institutional grants,Raw dollar amount,6175.73446353591
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,Institutional grants,Raw dollar amount,6539.47738248221
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,Institutional grants,Raw dollar amount,1003.83775811209
+2005,Public,2-year,603320.0,371024.0,61.497049658556,Institutional grants,Raw dollar amount,1296.80186292717
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,Institutional grants,Raw dollar amount,1676.98239588898
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,Institutional grants,Raw dollar amount,2066.44969439081
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,Institutional grants,Raw dollar amount,2112.12923010578
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,Institutional grants,Raw dollar amount,2063.46620973565
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,Institutional grants,Raw dollar amount,2071.39681903939
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,Institutional grants,Raw dollar amount,2088.75796037857
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,Institutional grants,Raw dollar amount,2104.84281662819
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,Institutional grants,Raw dollar amount,2279.40031587621
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,Institutional grants,Raw dollar amount,7367.73889865574
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,Institutional grants,Raw dollar amount,9932.13974865784
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,Institutional grants,Raw dollar amount,14324.3884772973
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,Institutional grants,Raw dollar amount,18451.5378488864
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,Institutional grants,Raw dollar amount,19298.69241764
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,Institutional grants,Raw dollar amount,20623.979991602
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,Institutional grants,Raw dollar amount,21795.264115957
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,Institutional grants,Raw dollar amount,22609.5505596573
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,Institutional grants,Raw dollar amount,23556.335673926
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,Institutional grants,Raw dollar amount,24806.0114066663
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,Institutional grants,Raw dollar amount,7458.07631023262
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,Institutional grants,Raw dollar amount,10002.4039495165
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,Institutional grants,Raw dollar amount,14414.4643019735
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,Institutional grants,Raw dollar amount,18826.290324446
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,Institutional grants,Raw dollar amount,19773.5068499047
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,Institutional grants,Raw dollar amount,20882.7418207499
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,Institutional grants,Raw dollar amount,21973.9641369964
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,Institutional grants,Raw dollar amount,22712.1379905676
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,Institutional grants,Raw dollar amount,23747.8699944859
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,Institutional grants,Raw dollar amount,24968.5191866557
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,Institutional grants,Raw dollar amount,2167.65296535526
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,Institutional grants,Raw dollar amount,3799.20116840234
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,Institutional grants,Raw dollar amount,5059.3707778915
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,Institutional grants,Raw dollar amount,3769.68812535397
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,Institutional grants,Raw dollar amount,3777.83147033534
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,Institutional grants,Raw dollar amount,4234.85222911131
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,Institutional grants,Raw dollar amount,5706.77452596867
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,Institutional grants,Raw dollar amount,7884.08596373405
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,Institutional grants,Raw dollar amount,5501.34464996488
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,Institutional grants,Raw dollar amount,6803.46326797386
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,Institutional grants,Raw dollar amount,1539.53532565841
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,Institutional grants,Raw dollar amount,1423.11393020993
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,Institutional grants,Raw dollar amount,1884.15650034445
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,Institutional grants,Raw dollar amount,2859.53449037992
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,Institutional grants,Raw dollar amount,3319.06933826294
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,Institutional grants,Raw dollar amount,3896.04374425207
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,Institutional grants,Raw dollar amount,4113.81899214199
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,Institutional grants,Raw dollar amount,4083.32701916834
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,Institutional grants,Raw dollar amount,4029.40049323875
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,Institutional grants,Raw dollar amount,4087.80724549909
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,Institutional grants,Raw dollar amount,1615.78114826872
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,Institutional grants,Raw dollar amount,1641.26034402603
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,Institutional grants,Raw dollar amount,2804.5458342741
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,Institutional grants,Raw dollar amount,4128.07496711969
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,Institutional grants,Raw dollar amount,4690.15233736515
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,Institutional grants,Raw dollar amount,4848.79224014448
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,Institutional grants,Raw dollar amount,5829.86145671332
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,Institutional grants,Raw dollar amount,6208.44506940503
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,Institutional grants,Raw dollar amount,6138.12000838487
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,Institutional grants,Raw dollar amount,6161.46327744727
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,Institutional grants,Raw dollar amount,1452.5553679946
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,Institutional grants,Raw dollar amount,1098.49757869249
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,Institutional grants,Raw dollar amount,874.770748215096
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,Institutional grants,Raw dollar amount,1425.17131809845
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,Institutional grants,Raw dollar amount,1463.52757705353
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,Institutional grants,Raw dollar amount,2187.12030831099
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,Institutional grants,Raw dollar amount,1503.98679412634
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,Institutional grants,Raw dollar amount,1516.46945898778
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,Institutional grants,Raw dollar amount,1663.25996707045
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,Institutional grants,Raw dollar amount,1938.11560888092
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,Student loans,Raw dollar amount,3764.18597533259
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,Student loans,Raw dollar amount,3970.09161594416
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,Student loans,Raw dollar amount,4330.58262089407
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,Student loans,Raw dollar amount,4193.34667822616
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,Student loans,Raw dollar amount,4462.6477758624
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,Student loans,Raw dollar amount,4831.14525357279
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,Student loans,Raw dollar amount,5018.05991138418
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,Student loans,Raw dollar amount,6007.65239812142
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,Student loans,Raw dollar amount,6722.91404714962
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,Student loans,Raw dollar amount,7018.74444588961
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,Student loans,Raw dollar amount,6623.55800828437
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,Student loans,Raw dollar amount,6640.8471466003
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,Student loans,Raw dollar amount,6895.86550550428
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,Student loans,Raw dollar amount,7015.48592710626
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,Student loans,Raw dollar amount,6924.84970971242
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,Student loans,Raw dollar amount,6989.28203797761
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,Student loans,Raw dollar amount,7079.63160544015
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,Student loans,Raw dollar amount,7082.32171371523
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,Student loans,Raw dollar amount,7212.23611478837
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,Student loans,Raw dollar amount,7388.83790630379
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,Student loans,Raw dollar amount,7216.19505186903
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,Student loans,Raw dollar amount,7486.7691177905
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,Student loans,Raw dollar amount,3049.95136924628
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,Student loans,Raw dollar amount,3866.49565489978
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,Student loans,Raw dollar amount,5780.01573466622
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,Student loans,Raw dollar amount,6315.57071263967
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,Student loans,Raw dollar amount,6439.50024357951
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,Student loans,Raw dollar amount,6488.48991721922
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,Student loans,Raw dollar amount,6631.01749494183
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,Student loans,Raw dollar amount,6803.16270290863
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,Student loans,Raw dollar amount,6661.09217705123
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,Student loans,Raw dollar amount,7022.63651087278
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,Student loans,Raw dollar amount,3211.69120411626
+2005,Public,4-year,906948.0,695017.0,76.632508148207,Student loans,Raw dollar amount,4165.97357167528
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,Student loans,Raw dollar amount,6126.74560398375
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,Student loans,Raw dollar amount,6710.03814880717
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,Student loans,Raw dollar amount,6837.10960320088
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,Student loans,Raw dollar amount,6869.0679981128
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,Student loans,Raw dollar amount,7011.56267110632
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,Student loans,Raw dollar amount,7200.81064847407
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,Student loans,Raw dollar amount,6988.86267982995
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,Student loans,Raw dollar amount,7316.02989879064
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,Student loans,Raw dollar amount,2395.78105559396
+2005,Public,2-year,603320.0,371024.0,61.497049658556,Student loans,Raw dollar amount,2812.42987703556
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,Student loans,Raw dollar amount,4802.04295904971
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,Student loans,Raw dollar amount,4609.70571908495
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,Student loans,Raw dollar amount,4666.6134092522
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,Student loans,Raw dollar amount,4658.4650871277
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,Student loans,Raw dollar amount,4657.47243517034
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,Student loans,Raw dollar amount,4700.01839905412
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,Student loans,Raw dollar amount,4712.13327331298
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,Student loans,Raw dollar amount,4913.13119510033
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,Student loans,Raw dollar amount,4019.44700540745
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,Student loans,Raw dollar amount,5269.68664532609
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,Student loans,Raw dollar amount,7295.85668687487
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,Student loans,Raw dollar amount,7925.44548430253
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,Student loans,Raw dollar amount,8009.79890740281
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,Student loans,Raw dollar amount,8092.68979675077
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,Student loans,Raw dollar amount,8219.53590985773
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,Student loans,Raw dollar amount,8452.02749803225
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,Student loans,Raw dollar amount,8003.94659515278
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,Student loans,Raw dollar amount,8224.17414667068
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,Student loans,Raw dollar amount,3999.71005145657
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,Student loans,Raw dollar amount,5264.26563213972
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,Student loans,Raw dollar amount,7305.0053975286
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,Student loans,Raw dollar amount,8001.79296890659
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,Student loans,Raw dollar amount,8178.87067529207
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,Student loans,Raw dollar amount,8181.24676030721
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,Student loans,Raw dollar amount,8328.62749337838
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,Student loans,Raw dollar amount,8541.12278093021
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,Student loans,Raw dollar amount,8196.48166627759
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,Student loans,Raw dollar amount,8397.7114413019
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,Student loans,Raw dollar amount,4509.19615423746
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,Student loans,Raw dollar amount,5530.97360601293
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,Student loans,Raw dollar amount,6944.00746445498
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,Student loans,Raw dollar amount,7170.72905590595
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,Student loans,Raw dollar amount,7040.67859651788
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,Student loans,Raw dollar amount,7194.75023386342
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,Student loans,Raw dollar amount,7043.78866654861
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,Student loans,Raw dollar amount,6361.44099736669
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,Student loans,Raw dollar amount,3891.75348601369
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,Student loans,Raw dollar amount,4163.14051731854
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,Student loans,Raw dollar amount,5517.32058505712
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,Student loans,Raw dollar amount,6453.54296428942
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,Student loans,Raw dollar amount,8064.01804997769
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,Student loans,Raw dollar amount,8096.23968786603
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,Student loans,Raw dollar amount,7871.12703677232
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,Student loans,Raw dollar amount,7613.56874253978
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,Student loans,Raw dollar amount,7552.69402783267
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,Student loans,Raw dollar amount,7756.89966167504
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,Student loans,Raw dollar amount,7845.33159336449
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,Student loans,Raw dollar amount,7831.60565738631
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,Student loans,Raw dollar amount,5748.57201778006
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,Student loans,Raw dollar amount,7046.28836595143
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,Student loans,Raw dollar amount,8561.40521595822
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,Student loans,Raw dollar amount,8412.78660625992
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,Student loans,Raw dollar amount,8330.7243794842
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,Student loans,Raw dollar amount,8328.84358049667
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,Student loans,Raw dollar amount,8185.4214756743
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,Student loans,Raw dollar amount,8022.60023098499
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,Student loans,Raw dollar amount,8078.65776342824
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,Student loans,Raw dollar amount,7824.13867585381
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,Student loans,Raw dollar amount,5386.57632361114
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,Student loans,Raw dollar amount,5951.44711465482
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,Student loans,Raw dollar amount,7799.15079555039
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,Student loans,Raw dollar amount,7930.14928867062
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,Student loans,Raw dollar amount,7643.41199995196
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,Student loans,Raw dollar amount,7250.88024797812
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,Student loans,Raw dollar amount,7185.07264894019
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,Student loans,Raw dollar amount,7618.3597390494
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,Student loans,Raw dollar amount,7732.31412607694
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,Student loans,Raw dollar amount,7835.29548482606
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,Federal grants,Inflation Adjusted,4255.85474388148
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,Federal grants,Inflation Adjusted,4606.53643708982
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,Federal grants,Inflation Adjusted,4849.67417345871
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,Federal grants,Inflation Adjusted,4724.24078169555
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,Federal grants,Inflation Adjusted,4594.89224273511
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,Federal grants,Inflation Adjusted,4456.67540265326
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,Federal grants,Inflation Adjusted,4596.42740958512
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,Federal grants,Inflation Adjusted,4785.83625256543
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,Federal grants,Inflation Adjusted,5482.3558406161
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,Federal grants,Inflation Adjusted,6489.78304893625
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,Federal grants,Inflation Adjusted,6449.73254564945
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,Federal grants,Inflation Adjusted,5825.98692610623
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,Federal grants,Inflation Adjusted,5767.01856881364
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,Federal grants,Inflation Adjusted,5780.97983368384
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,Federal grants,Inflation Adjusted,5823.83180682714
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,Federal grants,Inflation Adjusted,5888.73653531772
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,Federal grants,Inflation Adjusted,5804.97309821494
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,Federal grants,Inflation Adjusted,5950.1758853494
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,Federal grants,Inflation Adjusted,6013.4656813503
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,Federal grants,Inflation Adjusted,5344.11484731092
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,Federal grants,Inflation Adjusted,5376.58421746215
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,Federal grants,Inflation Adjusted,5295.20989527264
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,Federal grants,Inflation Adjusted,4121.18815262653
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,Federal grants,Inflation Adjusted,4406.29947021499
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,Federal grants,Inflation Adjusted,6458.95450767517
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,Federal grants,Inflation Adjusted,5831.12938678248
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,Federal grants,Inflation Adjusted,5731.53540349406
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,Federal grants,Inflation Adjusted,5926.97000472651
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,Federal grants,Inflation Adjusted,5974.13978609781
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,Federal grants,Inflation Adjusted,5330.96927884546
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,Federal grants,Inflation Adjusted,5270.76873971536
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,Federal grants,Inflation Adjusted,5228.87038266294
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,Federal grants,Inflation Adjusted,4397.56649969471
+2005,Public,4-year,906948.0,695017.0,76.632508148207,Federal grants,Inflation Adjusted,4624.39235006075
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,Federal grants,Inflation Adjusted,6755.09791692498
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,Federal grants,Inflation Adjusted,5919.69823293639
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,Federal grants,Inflation Adjusted,5833.28948845021
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,Federal grants,Inflation Adjusted,5988.82090438719
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,Federal grants,Inflation Adjusted,6021.74305597919
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,Federal grants,Inflation Adjusted,5169.81225774431
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,Federal grants,Inflation Adjusted,5248.31005467329
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,Federal grants,Inflation Adjusted,5085.42136338373
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,Federal grants,Inflation Adjusted,3803.65838486206
+2005,Public,2-year,603320.0,371024.0,61.497049658556,Federal grants,Inflation Adjusted,4176.96873305433
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,Federal grants,Inflation Adjusted,6177.44725352197
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,Federal grants,Inflation Adjusted,5712.93811469601
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,Federal grants,Inflation Adjusted,5591.39545208331
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,Federal grants,Inflation Adjusted,5837.31297151541
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,Federal grants,Inflation Adjusted,5901.81443274795
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,Federal grants,Inflation Adjusted,5614.54609204674
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,Federal grants,Inflation Adjusted,5315.86783665002
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,Federal grants,Inflation Adjusted,5535.42215100516
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,Federal grants,Inflation Adjusted,4927.17053250661
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,Federal grants,Inflation Adjusted,5160.24015664411
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,Federal grants,Inflation Adjusted,6881.09860882813
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,Federal grants,Inflation Adjusted,6285.92789571037
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,Federal grants,Inflation Adjusted,6294.76364432867
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,Federal grants,Inflation Adjusted,6301.76999137352
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,Federal grants,Inflation Adjusted,6374.72225887214
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,Federal grants,Inflation Adjusted,5331.45065639412
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,Federal grants,Inflation Adjusted,5724.76362817803
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,Federal grants,Inflation Adjusted,5612.07881912382
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,Federal grants,Inflation Adjusted,5015.71376059086
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,Federal grants,Inflation Adjusted,5176.84331882971
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,Federal grants,Inflation Adjusted,6919.23052464699
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,Federal grants,Inflation Adjusted,6201.3686196007
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,Federal grants,Inflation Adjusted,6087.01716644359
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,Federal grants,Inflation Adjusted,6218.78679618139
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,Federal grants,Inflation Adjusted,6294.65196906473
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,Federal grants,Inflation Adjusted,5250.59922482545
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,Federal grants,Inflation Adjusted,5682.84003335033
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,Federal grants,Inflation Adjusted,5576.6375296598
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,Federal grants,Inflation Adjusted,3884.2425281413
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,Federal grants,Inflation Adjusted,4783.66911793679
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,Federal grants,Inflation Adjusted,6171.16003665685
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,Federal grants,Inflation Adjusted,6758.825552093
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,Federal grants,Inflation Adjusted,6967.1156411488
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,Federal grants,Inflation Adjusted,6792.3919281366
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,Federal grants,Inflation Adjusted,6903.29837239764
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,Federal grants,Inflation Adjusted,6676.76465456892
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,Federal grants,Inflation Adjusted,6366.01081949515
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,Federal grants,Inflation Adjusted,6187.22905814971
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,Federal grants,Inflation Adjusted,3957.5592065803
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,Federal grants,Inflation Adjusted,4104.09586966497
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,Federal grants,Inflation Adjusted,6091.57874575618
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,Federal grants,Inflation Adjusted,5610.07601208696
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,Federal grants,Inflation Adjusted,5377.20599538227
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,Federal grants,Inflation Adjusted,5412.34603716808
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,Federal grants,Inflation Adjusted,5548.46767844234
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,Federal grants,Inflation Adjusted,5485.6858258567
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,Federal grants,Inflation Adjusted,5528.43852029212
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,Federal grants,Inflation Adjusted,5271.02336925354
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,Federal grants,Inflation Adjusted,3928.73487823687
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,Federal grants,Inflation Adjusted,3750.55362616739
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,Federal grants,Inflation Adjusted,6415.62572431708
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,Federal grants,Inflation Adjusted,5837.26689462693
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,Federal grants,Inflation Adjusted,5738.21366174975
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,Federal grants,Inflation Adjusted,5892.86309162995
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,Federal grants,Inflation Adjusted,5880.69301145677
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,Federal grants,Inflation Adjusted,5656.59655145341
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,Federal grants,Inflation Adjusted,5517.19707880653
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,Federal grants,Inflation Adjusted,5618.9128176325
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,Federal grants,Inflation Adjusted,3969.37519766266
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,Federal grants,Inflation Adjusted,4344.76540910149
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,Federal grants,Inflation Adjusted,5928.92920653075
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,Federal grants,Inflation Adjusted,5499.68877456641
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,Federal grants,Inflation Adjusted,5207.85371757795
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,Federal grants,Inflation Adjusted,5164.37369120391
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,Federal grants,Inflation Adjusted,5358.02391380805
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,Federal grants,Inflation Adjusted,5395.98210245091
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,Federal grants,Inflation Adjusted,5533.98298148753
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,Federal grants,Inflation Adjusted,5110.87290727199
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,State/local grants,Inflation Adjusted,3489.6710988484
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,State/local grants,Inflation Adjusted,3459.43249877024
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,State/local grants,Inflation Adjusted,3601.88363744345
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,State/local grants,Inflation Adjusted,3585.08945578023
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,State/local grants,Inflation Adjusted,3663.62787244432
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,State/local grants,Inflation Adjusted,3676.15335117894
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,State/local grants,Inflation Adjusted,3708.07384820559
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,State/local grants,Inflation Adjusted,3661.17506141642
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,State/local grants,Inflation Adjusted,3777.87682344217
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,State/local grants,Inflation Adjusted,3831.79952245407
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,State/local grants,Inflation Adjusted,3853.42552803752
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,State/local grants,Inflation Adjusted,3835.4295679396
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,State/local grants,Inflation Adjusted,3952.2182093363
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,State/local grants,Inflation Adjusted,3954.90643577725
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,State/local grants,Inflation Adjusted,4069.7477619799
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,State/local grants,Inflation Adjusted,4244.59666468919
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,State/local grants,Inflation Adjusted,4277.1466736206
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,State/local grants,Inflation Adjusted,4446.94976897342
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,State/local grants,Inflation Adjusted,4507.75784351094
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,State/local grants,Inflation Adjusted,4497.76629687231
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,State/local grants,Inflation Adjusted,4520.77194753674
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,State/local grants,Inflation Adjusted,4374.26674319891
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,State/local grants,Inflation Adjusted,2921.13352029045
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,State/local grants,Inflation Adjusted,3352.89412527715
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,State/local grants,Inflation Adjusted,3627.9989964124
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,State/local grants,Inflation Adjusted,4072.097407727
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,State/local grants,Inflation Adjusted,4114.95660056657
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,State/local grants,Inflation Adjusted,4295.53779614624
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,State/local grants,Inflation Adjusted,4363.0673142347
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,State/local grants,Inflation Adjusted,4356.8773260103
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,State/local grants,Inflation Adjusted,4384.16420085323
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,State/local grants,Inflation Adjusted,4238.46983158438
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,State/local grants,Inflation Adjusted,3539.49831947307
+2005,Public,4-year,906948.0,695017.0,76.632508148207,State/local grants,Inflation Adjusted,4144.82609793932
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,State/local grants,Inflation Adjusted,4701.91518469715
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,State/local grants,Inflation Adjusted,4911.45349362303
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,State/local grants,Inflation Adjusted,4934.62641479816
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,State/local grants,Inflation Adjusted,5132.93680826377
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,State/local grants,Inflation Adjusted,5220.83720338395
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,State/local grants,Inflation Adjusted,5284.19313199942
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,State/local grants,Inflation Adjusted,5173.16102862304
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,State/local grants,Inflation Adjusted,5011.97767585397
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,State/local grants,Inflation Adjusted,1727.7220174862
+2005,Public,2-year,603320.0,371024.0,61.497049658556,State/local grants,Inflation Adjusted,1979.25531038425
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,State/local grants,Inflation Adjusted,1922.47599445229
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,State/local grants,Inflation Adjusted,2528.14092749659
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,State/local grants,Inflation Adjusted,2591.30321134161
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,State/local grants,Inflation Adjusted,2668.44364379764
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,State/local grants,Inflation Adjusted,2708.39392383431
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,State/local grants,Inflation Adjusted,2655.73384464023
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,State/local grants,Inflation Adjusted,2714.43422408779
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,State/local grants,Inflation Adjusted,2549.16830664181
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,State/local grants,Inflation Adjusted,5130.88396115007
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,State/local grants,Inflation Adjusted,4694.31290601173
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,State/local grants,Inflation Adjusted,4819.72563005441
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,State/local grants,Inflation Adjusted,5047.25911199923
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,State/local grants,Inflation Adjusted,5094.37403992344
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,State/local grants,Inflation Adjusted,5273.54449500015
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,State/local grants,Inflation Adjusted,5315.81395572178
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,State/local grants,Inflation Adjusted,5353.81036668401
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,State/local grants,Inflation Adjusted,5299.09099987574
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,State/local grants,Inflation Adjusted,5154.92814242919
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,State/local grants,Inflation Adjusted,5137.22742378222
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,State/local grants,Inflation Adjusted,4699.86169402823
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,State/local grants,Inflation Adjusted,4844.28370998247
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,State/local grants,Inflation Adjusted,5052.38060339797
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,State/local grants,Inflation Adjusted,5093.9331742016
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,State/local grants,Inflation Adjusted,5278.29471765303
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,State/local grants,Inflation Adjusted,5332.09685626865
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,State/local grants,Inflation Adjusted,5365.65714717524
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,State/local grants,Inflation Adjusted,5312.89640336528
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,State/local grants,Inflation Adjusted,5166.63155495799
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,State/local grants,Inflation Adjusted,4950.17482008013
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,State/local grants,Inflation Adjusted,4478.32948860605
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,State/local grants,Inflation Adjusted,3842.70681046894
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,State/local grants,Inflation Adjusted,4791.54256101116
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,State/local grants,Inflation Adjusted,5119.2894481043
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,State/local grants,Inflation Adjusted,4987.6626249696
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,State/local grants,Inflation Adjusted,4102.02126941426
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,State/local grants,Inflation Adjusted,4401.79679210441
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,State/local grants,Inflation Adjusted,4161.24868887689
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,State/local grants,Inflation Adjusted,4243.16383320814
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,State/local grants,Inflation Adjusted,4267.95734366063
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,State/local grants,Inflation Adjusted,4210.13564730957
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,State/local grants,Inflation Adjusted,4105.06149811359
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,State/local grants,Inflation Adjusted,4831.53630818452
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,State/local grants,Inflation Adjusted,4309.72566099401
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,State/local grants,Inflation Adjusted,4026.42706855902
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,State/local grants,Inflation Adjusted,3977.87680844754
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,State/local grants,Inflation Adjusted,3747.33590313664
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,State/local grants,Inflation Adjusted,3842.93358427485
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,State/local grants,Inflation Adjusted,3679.44601243286
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,State/local grants,Inflation Adjusted,4944.26694085775
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,State/local grants,Inflation Adjusted,4435.11437950745
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,State/local grants,Inflation Adjusted,3998.57907355832
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,State/local grants,Inflation Adjusted,4672.79288558209
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,State/local grants,Inflation Adjusted,4457.49088351897
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,State/local grants,Inflation Adjusted,4618.56027151947
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,State/local grants,Inflation Adjusted,4240.72245457703
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,State/local grants,Inflation Adjusted,4329.41400250167
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,State/local grants,Inflation Adjusted,4151.91959330444
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,State/local grants,Inflation Adjusted,3730.41497380643
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,State/local grants,Inflation Adjusted,3960.56989585099
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,State/local grants,Inflation Adjusted,4074.68966109002
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,State/local grants,Inflation Adjusted,4185.89966873146
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,State/local grants,Inflation Adjusted,4955.80544075651
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,State/local grants,Inflation Adjusted,4191.09052653522
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,State/local grants,Inflation Adjusted,3538.94518514955
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,State/local grants,Inflation Adjusted,3666.98048294225
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,State/local grants,Inflation Adjusted,3209.22360973762
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,State/local grants,Inflation Adjusted,3501.99800152247
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,State/local grants,Inflation Adjusted,3631.50692587776
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,Institutional grants,Inflation Adjusted,8112.2783393679
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,Institutional grants,Inflation Adjusted,8270.92252817055
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,Institutional grants,Inflation Adjusted,8667.75479381702
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,Institutional grants,Inflation Adjusted,9095.83792297531
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,Institutional grants,Inflation Adjusted,9314.49474075974
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,Institutional grants,Inflation Adjusted,9356.8598684481
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,Institutional grants,Inflation Adjusted,9686.02312501795
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,Institutional grants,Inflation Adjusted,9638.07287239457
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,Institutional grants,Inflation Adjusted,10496.421831253
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,Institutional grants,Inflation Adjusted,10637.1679891539
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,Institutional grants,Inflation Adjusted,11377.4485208363
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,Institutional grants,Inflation Adjusted,11545.2918391933
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,Institutional grants,Inflation Adjusted,11946.8772895831
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,Institutional grants,Inflation Adjusted,12248.0518209573
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,Institutional grants,Inflation Adjusted,12746.2996120419
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,Institutional grants,Inflation Adjusted,13020.9385614985
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,Institutional grants,Inflation Adjusted,13303.2242501663
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,Institutional grants,Inflation Adjusted,13567.1770250328
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,Institutional grants,Inflation Adjusted,13783.3290968976
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,Institutional grants,Inflation Adjusted,13650.7965640827
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,Institutional grants,Inflation Adjusted,13346.3787872738
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,Institutional grants,Inflation Adjusted,13282.4838017479
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,Institutional grants,Inflation Adjusted,3893.11600237331
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,Institutional grants,Inflation Adjusted,4761.92025158906
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,Institutional grants,Inflation Adjusted,5639.28959434305
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,Institutional grants,Inflation Adjusted,6693.78623034787
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,Institutional grants,Inflation Adjusted,6790.11294757314
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,Institutional grants,Inflation Adjusted,6702.38406080907
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,Institutional grants,Inflation Adjusted,6704.10276142161
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,Institutional grants,Inflation Adjusted,6729.23475655834
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,Institutional grants,Inflation Adjusted,6446.08739123778
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,Institutional grants,Inflation Adjusted,6434.65789739821
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,Institutional grants,Inflation Adjusted,4477.51364073162
+2005,Public,4-year,906948.0,695017.0,76.632508148207,Institutional grants,Inflation Adjusted,5381.32459696808
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,Institutional grants,Inflation Adjusted,6281.75891754897
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,Institutional grants,Inflation Adjusted,7310.46911106829
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,Institutional grants,Inflation Adjusted,7404.40051568453
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,Institutional grants,Inflation Adjusted,7358.97417555233
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,Institutional grants,Inflation Adjusted,7352.84525003688
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,Institutional grants,Inflation Adjusted,7394.63061852241
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,Institutional grants,Inflation Adjusted,7033.12920226319
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,Institutional grants,Inflation Adjusted,6948.97005360937
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,Institutional grants,Inflation Adjusted,1718.15456182933
+2005,Public,2-year,603320.0,371024.0,61.497049658556,Institutional grants,Inflation Adjusted,1953.0034689401
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,Institutional grants,Inflation Adjusted,2273.16155772157
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,Institutional grants,Inflation Adjusted,2599.05224957721
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,Institutional grants,Inflation Adjusted,2608.52172756598
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,Institutional grants,Inflation Adjusted,2492.24132523245
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,Institutional grants,Inflation Adjusted,2451.02640568023
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,Institutional grants,Inflation Adjusted,2433.50087220018
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,Institutional grants,Inflation Adjusted,2397.0641171845
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,Institutional grants,Inflation Adjusted,2422.1330862986
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,Institutional grants,Inflation Adjusted,12610.5180810297
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,Institutional grants,Inflation Adjusted,14957.9545940366
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,Institutional grants,Inflation Adjusted,19416.8103996112
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,Institutional grants,Inflation Adjusted,23207.1998096449
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,Institutional grants,Inflation Adjusted,23834.2700661861
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,Institutional grants,Inflation Adjusted,24909.5114731356
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,Institutional grants,Inflation Adjusted,25789.7315357273
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,Institutional grants,Inflation Adjusted,26341.1855517276
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,Institutional grants,Inflation Adjusted,26826.7285947631
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,Institutional grants,Inflation Adjusted,26359.3281744767
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,Institutional grants,Inflation Adjusted,12765.1383217512
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,Institutional grants,Inflation Adjusted,15063.7735567804
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,Institutional grants,Inflation Adjusted,19538.9088202243
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,Institutional grants,Inflation Adjusted,23678.5402285681
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,Institutional grants,Inflation Adjusted,24420.6753606492
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,Institutional grants,Inflation Adjusted,25222.0423597343
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,Institutional grants,Inflation Adjusted,26001.1823143696
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,Institutional grants,Inflation Adjusted,26460.7047144705
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,Institutional grants,Inflation Adjusted,27044.8541685097
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,Institutional grants,Inflation Adjusted,26532.0119579928
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,Institutional grants,Inflation Adjusted,3710.12427136872
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,Institutional grants,Inflation Adjusted,5721.65515273305
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,Institutional grants,Inflation Adjusted,6858.01305175073
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,Institutional grants,Inflation Adjusted,4741.27990098209
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,Institutional grants,Inflation Adjusted,4665.69721823259
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,Institutional grants,Inflation Adjusted,5114.8275081258
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,Institutional grants,Inflation Adjusted,6752.66801891641
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,Institutional grants,Inflation Adjusted,9185.32947961606
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,Institutional grants,Inflation Adjusted,6265.11193734671
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,Institutional grants,Inflation Adjusted,7229.48635568743
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,Institutional grants,Inflation Adjusted,2635.04696999258
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,Institutional grants,Inflation Adjusted,2143.23137701497
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,Institutional grants,Inflation Adjusted,2553.98752891724
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,Institutional grants,Inflation Adjusted,3596.54511316644
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,Institutional grants,Inflation Adjusted,4099.11683468503
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,Institutional grants,Inflation Adjusted,4705.61678137794
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,Institutional grants,Inflation Adjusted,4867.76791643663
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,Institutional grants,Inflation Adjusted,4757.2672617481
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,Institutional grants,Inflation Adjusted,4588.813596818
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,Institutional grants,Inflation Adjusted,4343.77985769841
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,Institutional grants,Inflation Adjusted,2765.5482456018
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,Institutional grants,Inflation Adjusted,2471.76321761398
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,Institutional grants,Inflation Adjusted,3801.5818132429
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,Institutional grants,Inflation Adjusted,5192.03664083326
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,Institutional grants,Inflation Adjusted,5792.43168610409
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,Institutional grants,Inflation Adjusted,5856.34033711783
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,Institutional grants,Inflation Adjusted,6898.31337024469
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,Institutional grants,Inflation Adjusted,7233.12934192997
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,Institutional grants,Inflation Adjusted,6990.29262557551
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,Institutional grants,Inflation Adjusted,6547.28524883179
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,Institutional grants,Inflation Adjusted,2486.17330007917
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,Institutional grants,Inflation Adjusted,1654.35417941655
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,Institutional grants,Inflation Adjusted,1185.75796712987
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,Institutional grants,Inflation Adjusted,1792.49208455987
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,Institutional grants,Inflation Adjusted,1807.48574908219
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,Institutional grants,Inflation Adjusted,2641.58995670014
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,Institutional grants,Inflation Adjusted,1779.62586034458
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,Institutional grants,Inflation Adjusted,1766.75795909013
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,Institutional grants,Inflation Adjusted,1894.1750676665
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,Institutional grants,Inflation Adjusted,2059.47762165581
+2000,All institutions,Overall,1976600.0,1390527.0,70.3494384296266,Student loans,Inflation Adjusted,6442.72767469414
+2001,All institutions,Overall,2050016.0,1481592.0,72.2722164119695,Student loans,Inflation Adjusted,6676.93783067829
+2002,All institutions,Overall,2135613.0,1553024.0,72.7202915509505,Student loans,Inflation Adjusted,7126.59879161069
+2003,All institutions,Overall,2178517.0,1610967.0,73.9478737140908,Student loans,Inflation Adjusted,6753.02054502185
+2004,All institutions,Overall,2260590.0,1689910.0,74.7552630065602,Student loans,Inflation Adjusted,6976.7575001008
+2005,All institutions,Overall,2309543.0,1731315.0,74.9635317463238,Student loans,Inflation Adjusted,7275.77875149233
+2006,All institutions,Overall,2426599.0,1766783.0,72.809022009817,Student loans,Inflation Adjusted,7366.76799294187
+2007,All institutions,Overall,2528579.0,1911296.0,75.5877510649262,Student loans,Inflation Adjusted,8504.4227684718
+2008,All institutions,Overall,2542748.0,1974063.0,77.6350232111086,Student loans,Inflation Adjusted,9385.89056182408
+2009,All institutions,Overall,2855241.0,2323706.0,81.38388318184,Student loans,Inflation Adjusted,9704.99655923791
+2010,All institutions,Overall,2648101.0,2179582.0,82.3073591226317,Student loans,Inflation Adjusted,8978.27996088735
+2011,All institutions,Overall,2571120.0,2140556.0,83.253834904633,Student loans,Inflation Adjusted,8745.46734835722
+2012,All institutions,Overall,2510994.0,2077909.0,82.752447835399,Student loans,Inflation Adjusted,8932.65437090256
+2013,All institutions,Overall,2505306.0,2077487.0,82.9234831992579,Student loans,Inflation Adjusted,8947.83032466331
+2014,All institutions,Overall,2471045.0,2062252.0,83.456675212309,Student loans,Inflation Adjusted,8768.3787831313
+2015,All institutions,Overall,2458068.0,2031557.0,82.6485272173105,Student loans,Inflation Adjusted,8790.68542197949
+2016,All institutions,Overall,2491341.0,2063481.0,82.8261165372384,Student loans,Inflation Adjusted,8743.48624256697
+2017,All institutions,Overall,2464021.0,2057789.0,83.5134521986623,Student loans,Inflation Adjusted,8553.98298757385
+2018,All institutions,Overall,2470908.0,2072213.0,83.8644336413982,Student loans,Inflation Adjusted,8534.03896291815
+2019,All institutions,Overall,2455016.0,2097865.0,85.4521925722684,Student loans,Inflation Adjusted,8608.34229269779
+2020,All institutions,Overall,2246762.0,1923272.0,85.601946267562,Student loans,Inflation Adjusted,8218.03988629863
+2021,All institutions,Overall,2282669.0,1991973.0,87.2650831110424,Student loans,Inflation Adjusted,7955.57983535164
+2000,Public,Overall,1333236.0,872109.0,65.4129501453606,Student loans,Inflation Adjusted,5220.25378710947
+2005,Public,Overall,1510268.0,1066041.0,70.5862138375441,Student loans,Inflation Adjusted,5823.00168016122
+2010,Public,Overall,1802335.0,1421369.0,78.8626420726446,Student loans,Inflation Adjusted,7834.85241304756
+2015,Public,Overall,1747471.0,1399831.0,80.1061076263927,Student loans,Inflation Adjusted,7943.33310537669
+2016,Public,Overall,1752934.0,1407452.0,80.2912146150397,Student loans,Inflation Adjusted,7952.91124265267
+2017,Public,Overall,1766933.0,1438708.0,81.4240268306721,Student loans,Inflation Adjusted,7836.75673182916
+2018,Public,Overall,1777994.0,1449845.0,81.5438634776045,Student loans,Inflation Adjusted,7846.29909017974
+2019,Public,Overall,1783178.0,1494200.0,83.7942145988791,Student loans,Inflation Adjusted,7926.00324464943
+2020,Public,Overall,1608012.0,1349831.0,83.9440874819342,Student loans,Inflation Adjusted,7585.87050430968
+2021,Public,Overall,1617365.0,1401935.0,86.680186599809,Student loans,Inflation Adjusted,7462.38391192593
+2000,Public,4-year,804793.0,573430.0,71.2518622801143,Student loans,Inflation Adjusted,5497.08540941666
+2005,Public,4-year,906948.0,695017.0,76.632508148207,Student loans,Inflation Adjusted,6274.02000998787
+2010,Public,4-year,1039126.0,858424.0,82.6101935665165,Student loans,Inflation Adjusted,8304.84721548472
+2015,Public,4-year,1144409.0,948342.0,82.8674014272869,Student loans,Inflation Adjusted,8439.46977888924
+2016,Public,4-year,1161684.0,965117.0,83.079133396001,Student loans,Inflation Adjusted,8443.96673247418
+2017,Public,4-year,1183534.0,993916.0,83.9786605201034,Student loans,Inflation Adjusted,8296.41651021833
+2018,Public,4-year,1208851.0,1011977.0,83.7139564760256,Student loans,Inflation Adjusted,8296.58764269666
+2019,Public,4-year,1221792.0,1040462.0,85.1586849480108,Student loans,Inflation Adjusted,8389.28172914494
+2020,Public,4-year,1147820.0,978814.0,85.27591434197,Student loans,Inflation Adjusted,7959.14631601187
+2021,Public,4-year,1183279.0,1030951.0,87.1266201800252,Student loans,Inflation Adjusted,7774.14917194956
+2000,Public,2-year,528443.0,298679.0,56.5205708089614,Student loans,Inflation Adjusted,4100.5850960962
+2005,Public,2-year,603320.0,371024.0,61.497049658556,Student loans,Inflation Adjusted,4235.56247336276
+2010,Public,2-year,763209.0,562945.0,73.7602675020866,Student loans,Inflation Adjusted,6509.20336420872
+2015,Public,2-year,603062.0,451489.0,74.8661000029848,Student loans,Inflation Adjusted,5797.80192646239
+2016,Public,2-year,591250.0,442335.0,74.8135306553911,Student loans,Inflation Adjusted,5763.36064037875
+2017,Public,2-year,583399.0,444792.0,76.2414745311528,Student loans,Inflation Adjusted,5626.46441580433
+2018,Public,2-year,569143.0,437868.0,76.9346192433185,Student loans,Inflation Adjusted,5511.05795731803
+2019,Public,2-year,561386.0,453738.0,80.8246019672739,Student loans,Inflation Adjusted,5475.74160836813
+2020,Public,2-year,460192.0,371017.0,80.6222185522565,Student loans,Inflation Adjusted,5366.33210594982
+2021,Public,2-year,434086.0,370984.0,85.4632492178969,Student loans,Inflation Adjusted,5220.78440635987
+2000,Private nonprofit,Overall,439369.0,363044.0,82.6284967760584,Student loans,Inflation Adjusted,6879.62885691826
+2005,Private nonprofit,Overall,471069.0,401908.0,85.3182867053446,Student loans,Inflation Adjusted,7936.22880469843
+2010,Private nonprofit,Overall,517831.0,462840.0,89.3805121748215,Student loans,Inflation Adjusted,9889.58559845715
+2015,Private nonprofit,Overall,540835.0,484705.0,89.6216036314218,Student loans,Inflation Adjusted,9968.13373719726
+2016,Private nonprofit,Overall,569122.0,511634.0,89.8988266136259,Student loans,Inflation Adjusted,9892.26141354432
+2017,Private nonprofit,Overall,550438.0,496934.0,90.2797408609144,Student loans,Inflation Adjusted,9774.29911310888
+2018,Private nonprofit,Overall,560485.0,506454.0,90.3599561094409,Student loans,Inflation Adjusted,9725.9488729161
+2019,Private nonprofit,Overall,526825.0,476326.0,90.4144640060741,Student loans,Inflation Adjusted,9847.00797242855
+2020,Private nonprofit,Overall,493415.0,447660.0,90.7268729163078,Student loans,Inflation Adjusted,9115.15721151871
+2021,Private nonprofit,Overall,521768.0,467215.0,89.5445868661934,Student loans,Inflation Adjusted,8739.1601068877
+2000,Private nonprofit,4-year,419499.0,347638.0,82.869804218842,Student loans,Inflation Adjusted,6845.84736464694
+2005,Private nonprofit,4-year,460832.0,393429.0,85.3736285674606,Student loans,Inflation Adjusted,7928.06467580502
+2010,Private nonprofit,4-year,504715.0,451012.0,89.3597376737367,Student loans,Inflation Adjusted,9901.98674077788
+2015,Private nonprofit,4-year,505549.0,451276.0,89.264542111645,Student loans,Inflation Adjusted,10064.1588677138
+2016,Private nonprofit,4-year,508494.0,454979.0,89.4757853583326,Student loans,Inflation Adjusted,10101.0684191815
+2017,Private nonprofit,4-year,516578.0,464432.0,89.9054934588775,Student loans,Inflation Adjusted,9881.25764878596
+2018,Private nonprofit,4-year,528402.0,475518.0,89.991710856507,Student loans,Inflation Adjusted,9855.03391803584
+2019,Private nonprofit,4-year,511289.0,461778.0,90.3164355188553,Student loans,Inflation Adjusted,9950.8081506942
+2020,Private nonprofit,4-year,477264.0,432959.0,90.7168778705287,Student loans,Inflation Adjusted,9334.42247287071
+2021,Private nonprofit,4-year,505005.0,453137.0,89.7292106018752,Student loans,Inflation Adjusted,8923.56405739406
+2000,Private nonprofit,2-year,19870.0,15406.0,77.5339708102667,Student loans,Inflation Adjusted,7717.87659906023
+2005,Private nonprofit,2-year,10237.0,8479.0,82.8270000976849,Student loans,Inflation Adjusted,8329.7309696771
+2010,Private nonprofit,2-year,13116.0,11828.0,90.1799329063739,Student loans,Inflation Adjusted,9412.65147650107
+2015,Private nonprofit,2-year,35286.0,33429.0,94.7372895766026,Student loans,Inflation Adjusted,9018.89822648464
+2016,Private nonprofit,2-year,60628.0,56655.0,93.4469222141585,Student loans,Inflation Adjusted,8695.37849959391
+2017,Private nonprofit,2-year,33860.0,32502.0,95.989367985824,Student loans,Inflation Adjusted,8689.77343702538
+2018,Private nonprofit,2-year,32083.0,30936.0,96.4248979210174,Student loans,Inflation Adjusted,8334.71976931401
+2019,Private nonprofit,2-year,15536.0,14548.0,93.6405767250258,Student loans,Inflation Adjusted,7411.37676513562
+2020,Private nonprofit,2-year,16151.0,14701.0,91.0222277258374,Student loans,Inflation Adjusted,4432.05666501747
+2021,Private nonprofit,2-year,16763.0,14078.0,83.9825806836485,Student loans,Inflation Adjusted,4423.83039068383
+2000,Private for-profit,Overall,203995.0,155374.0,76.1655922939288,Student loans,Inflation Adjusted,9443.36816949285
+2005,Private for-profit,Overall,328206.0,263366.0,80.2441149765696,Student loans,Inflation Adjusted,9719.13455441965
+2010,Private for-profit,Overall,327935.0,295373.0,90.0705932578102,Student loans,Inflation Adjusted,10930.8337862813
+2015,Private for-profit,Overall,169762.0,147021.0,86.6041870383242,Student loans,Inflation Adjusted,10182.9480925583
+2016,Private for-profit,Overall,169285.0,144395.0,85.2969843754615,Student loans,Inflation Adjusted,9720.99888737601
+2017,Private for-profit,Overall,146650.0,122147.0,83.291510398909,Student loans,Inflation Adjusted,9195.61976015425
+2018,Private for-profit,Overall,132429.0,115914.0,87.5291665722765,Student loans,Inflation Adjusted,8936.89336880709
+2019,Private for-profit,Overall,145013.0,127339.0,87.8121271885969,Student loans,Inflation Adjusted,9037.151479645
+2020,Private for-profit,Overall,145335.0,125781.0,86.5455671379916,Student loans,Inflation Adjusted,8934.52123897472
+2021,Private for-profit,Overall,143536.0,122823.0,85.5694738602163,Student loans,Inflation Adjusted,8322.00954324552
+2000,Private for-profit,4-year,81075.0,51739.0,63.8162195497996,Student loans,Inflation Adjusted,9839.17486320573
+2005,Private for-profit,4-year,157705.0,116237.0,73.7053359119876,Student loans,Inflation Adjusted,10611.8182085217
+2010,Private for-profit,4-year,112706.0,102000.0,90.5009493727042,Student loans,Inflation Adjusted,11605.0456252265
+2015,Private for-profit,4-year,59269.0,51636.0,87.1214294150399,Student loans,Inflation Adjusted,10581.0811720044
+2016,Private for-profit,4-year,57680.0,49045.0,85.0294729542302,Student loans,Inflation Adjusted,10288.6107727224
+2017,Private for-profit,4-year,52371.0,43364.0,82.8015504764087,Student loans,Inflation Adjusted,10059.5241466882
+2018,Private for-profit,4-year,50712.0,44761.0,88.2651049061366,Student loans,Inflation Adjusted,9685.5822091123
+2019,Private for-profit,4-year,53622.0,46722.0,87.1321472529932,Student loans,Inflation Adjusted,9346.70508969691
+2020,Private for-profit,4-year,51081.0,43577.0,85.3096063115444,Student loans,Inflation Adjusted,9200.24074327285
+2021,Private for-profit,4-year,48566.0,42396.0,87.2956389243504,Student loans,Inflation Adjusted,8314.0749900656
+2000,Private for-profit,2-year,122920.0,103635.0,84.3109339407745,Student loans,Inflation Adjusted,9219.58813390334
+2005,Private for-profit,2-year,170501.0,147129.0,86.2921625093108,Student loans,Inflation Adjusted,8962.97051416806
+2010,Private for-profit,2-year,215229.0,193373.0,89.8452346105776,Student loans,Inflation Adjusted,10571.8043402123
+2015,Private for-profit,2-year,110493.0,95385.0,86.3267356303114,Student loans,Inflation Adjusted,9974.04989056777
+2016,Private for-profit,2-year,111605.0,95350.0,85.4352403566149,Student loans,Inflation Adjusted,9439.76627491429
+2017,Private for-profit,2-year,94279.0,78783.0,83.5636780194953,Student loans,Inflation Adjusted,8757.56691001879
+2018,Private for-profit,2-year,81717.0,71153.0,87.0724573834086,Student loans,Inflation Adjusted,8501.89718716001
+2019,Private for-profit,2-year,91391.0,80617.0,88.2110929960281,Student loans,Inflation Adjusted,8875.74597985079
+2020,Private for-profit,2-year,94254.0,82204.0,87.2153966940395,Student loans,Inflation Adjusted,8805.81323602558
+2021,Private for-profit,2-year,94970.0,80427.0,84.6867431820575,Student loans,Inflation Adjusted,8325.93042237425

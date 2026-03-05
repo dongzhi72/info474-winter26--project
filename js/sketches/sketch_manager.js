@@ -35,7 +35,7 @@ function startP5() {
                 self.table4 = p.loadTable('data/df4_race_enrollment.csv', 'csv', 'header');
                 self.table7 = p.loadTable('data/df7_recent-grads.csv', 'csv', 'header');
                 self.table5 = p.loadTable('data/df5_cleaned_grad_rates.csv', 'csv', 'header');
-                self.table6 = p.loadJSON('data/df6_financial_aid_transformed.json');
+                self.table6 = p.loadTable('data/df6_financial_aid_long.csv', 'csv', 'header');
             };
 
             p.setup = function () {
