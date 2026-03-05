@@ -1,0 +1,898 @@
+[
+  {
+    "year": 2000,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 1976600.0,
+    "Number awarded financial aid": 1390527.0,
+    "Percent awarded aid": 70.3494384296266
+  },
+  {
+    "year": 2001,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2050016.0,
+    "Number awarded financial aid": 1481592.0,
+    "Percent awarded aid": 72.2722164119695
+  },
+  {
+    "year": 2002,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2135613.0,
+    "Number awarded financial aid": 1553024.0,
+    "Percent awarded aid": 72.7202915509505
+  },
+  {
+    "year": 2003,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2178517.0,
+    "Number awarded financial aid": 1610967.0,
+    "Percent awarded aid": 73.9478737140908
+  },
+  {
+    "year": 2004,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2260590.0,
+    "Number awarded financial aid": 1689910.0,
+    "Percent awarded aid": 74.7552630065602
+  },
+  {
+    "year": 2005,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2309543.0,
+    "Number awarded financial aid": 1731315.0,
+    "Percent awarded aid": 74.9635317463238
+  },
+  {
+    "year": 2006,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2426599.0,
+    "Number awarded financial aid": 1766783.0,
+    "Percent awarded aid": 72.809022009817
+  },
+  {
+    "year": 2007,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2528579.0,
+    "Number awarded financial aid": 1911296.0,
+    "Percent awarded aid": 75.5877510649262
+  },
+  {
+    "year": 2008,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2542748.0,
+    "Number awarded financial aid": 1974063.0,
+    "Percent awarded aid": 77.6350232111086
+  },
+  {
+    "year": 2009,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2855241.0,
+    "Number awarded financial aid": 2323706.0,
+    "Percent awarded aid": 81.38388318184
+  },
+  {
+    "year": 2010,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2648101.0,
+    "Number awarded financial aid": 2179582.0,
+    "Percent awarded aid": 82.3073591226317
+  },
+  {
+    "year": 2011,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2571120.0,
+    "Number awarded financial aid": 2140556.0,
+    "Percent awarded aid": 83.253834904633
+  },
+  {
+    "year": 2012,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2510994.0,
+    "Number awarded financial aid": 2077909.0,
+    "Percent awarded aid": 82.752447835399
+  },
+  {
+    "year": 2013,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2505306.0,
+    "Number awarded financial aid": 2077487.0,
+    "Percent awarded aid": 82.9234831992579
+  },
+  {
+    "year": 2014,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2471045.0,
+    "Number awarded financial aid": 2062252.0,
+    "Percent awarded aid": 83.456675212309
+  },
+  {
+    "year": 2015,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2458068.0,
+    "Number awarded financial aid": 2031557.0,
+    "Percent awarded aid": 82.6485272173105
+  },
+  {
+    "year": 2016,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2491341.0,
+    "Number awarded financial aid": 2063481.0,
+    "Percent awarded aid": 82.8261165372384
+  },
+  {
+    "year": 2017,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2464021.0,
+    "Number awarded financial aid": 2057789.0,
+    "Percent awarded aid": 83.5134521986623
+  },
+  {
+    "year": 2018,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2470908.0,
+    "Number awarded financial aid": 2072213.0,
+    "Percent awarded aid": 83.8644336413982
+  },
+  {
+    "year": 2019,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2455016.0,
+    "Number awarded financial aid": 2097865.0,
+    "Percent awarded aid": 85.4521925722684
+  },
+  {
+    "year": 2020,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2246762.0,
+    "Number awarded financial aid": 1923272.0,
+    "Percent awarded aid": 85.601946267562
+  },
+  {
+    "year": 2021,
+    "sector": "All institutions",
+    "length": "Overall",
+    "Number enrolled": 2282669.0,
+    "Number awarded financial aid": 1991973.0,
+    "Percent awarded aid": 87.2650831110424
+  },
+  {
+    "year": 2000,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 122920.0,
+    "Number awarded financial aid": 103635.0,
+    "Percent awarded aid": 84.3109339407745
+  },
+  {
+    "year": 2005,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 170501.0,
+    "Number awarded financial aid": 147129.0,
+    "Percent awarded aid": 86.2921625093108
+  },
+  {
+    "year": 2010,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 215229.0,
+    "Number awarded financial aid": 193373.0,
+    "Percent awarded aid": 89.8452346105776
+  },
+  {
+    "year": 2015,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 110493.0,
+    "Number awarded financial aid": 95385.0,
+    "Percent awarded aid": 86.3267356303114
+  },
+  {
+    "year": 2016,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 111605.0,
+    "Number awarded financial aid": 95350.0,
+    "Percent awarded aid": 85.4352403566149
+  },
+  {
+    "year": 2017,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 94279.0,
+    "Number awarded financial aid": 78783.0,
+    "Percent awarded aid": 83.5636780194953
+  },
+  {
+    "year": 2018,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 81717.0,
+    "Number awarded financial aid": 71153.0,
+    "Percent awarded aid": 87.0724573834086
+  },
+  {
+    "year": 2019,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 91391.0,
+    "Number awarded financial aid": 80617.0,
+    "Percent awarded aid": 88.2110929960281
+  },
+  {
+    "year": 2020,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 94254.0,
+    "Number awarded financial aid": 82204.0,
+    "Percent awarded aid": 87.2153966940395
+  },
+  {
+    "year": 2021,
+    "sector": "Private for-profit",
+    "length": "2-year",
+    "Number enrolled": 94970.0,
+    "Number awarded financial aid": 80427.0,
+    "Percent awarded aid": 84.6867431820575
+  },
+  {
+    "year": 2000,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 81075.0,
+    "Number awarded financial aid": 51739.0,
+    "Percent awarded aid": 63.8162195497996
+  },
+  {
+    "year": 2005,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 157705.0,
+    "Number awarded financial aid": 116237.0,
+    "Percent awarded aid": 73.7053359119876
+  },
+  {
+    "year": 2010,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 112706.0,
+    "Number awarded financial aid": 102000.0,
+    "Percent awarded aid": 90.5009493727042
+  },
+  {
+    "year": 2015,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 59269.0,
+    "Number awarded financial aid": 51636.0,
+    "Percent awarded aid": 87.1214294150399
+  },
+  {
+    "year": 2016,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 57680.0,
+    "Number awarded financial aid": 49045.0,
+    "Percent awarded aid": 85.0294729542302
+  },
+  {
+    "year": 2017,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 52371.0,
+    "Number awarded financial aid": 43364.0,
+    "Percent awarded aid": 82.8015504764087
+  },
+  {
+    "year": 2018,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 50712.0,
+    "Number awarded financial aid": 44761.0,
+    "Percent awarded aid": 88.2651049061366
+  },
+  {
+    "year": 2019,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 53622.0,
+    "Number awarded financial aid": 46722.0,
+    "Percent awarded aid": 87.1321472529932
+  },
+  {
+    "year": 2020,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 51081.0,
+    "Number awarded financial aid": 43577.0,
+    "Percent awarded aid": 85.3096063115444
+  },
+  {
+    "year": 2021,
+    "sector": "Private for-profit",
+    "length": "4-year",
+    "Number enrolled": 48566.0,
+    "Number awarded financial aid": 42396.0,
+    "Percent awarded aid": 87.2956389243504
+  },
+  {
+    "year": 2000,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 203995.0,
+    "Number awarded financial aid": 155374.0,
+    "Percent awarded aid": 76.1655922939288
+  },
+  {
+    "year": 2005,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 328206.0,
+    "Number awarded financial aid": 263366.0,
+    "Percent awarded aid": 80.2441149765696
+  },
+  {
+    "year": 2010,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 327935.0,
+    "Number awarded financial aid": 295373.0,
+    "Percent awarded aid": 90.0705932578102
+  },
+  {
+    "year": 2015,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 169762.0,
+    "Number awarded financial aid": 147021.0,
+    "Percent awarded aid": 86.6041870383242
+  },
+  {
+    "year": 2016,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 169285.0,
+    "Number awarded financial aid": 144395.0,
+    "Percent awarded aid": 85.2969843754615
+  },
+  {
+    "year": 2017,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 146650.0,
+    "Number awarded financial aid": 122147.0,
+    "Percent awarded aid": 83.291510398909
+  },
+  {
+    "year": 2018,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 132429.0,
+    "Number awarded financial aid": 115914.0,
+    "Percent awarded aid": 87.5291665722765
+  },
+  {
+    "year": 2019,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 145013.0,
+    "Number awarded financial aid": 127339.0,
+    "Percent awarded aid": 87.8121271885969
+  },
+  {
+    "year": 2020,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 145335.0,
+    "Number awarded financial aid": 125781.0,
+    "Percent awarded aid": 86.5455671379916
+  },
+  {
+    "year": 2021,
+    "sector": "Private for-profit",
+    "length": "Overall",
+    "Number enrolled": 143536.0,
+    "Number awarded financial aid": 122823.0,
+    "Percent awarded aid": 85.5694738602163
+  },
+  {
+    "year": 2000,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 19870.0,
+    "Number awarded financial aid": 15406.0,
+    "Percent awarded aid": 77.5339708102667
+  },
+  {
+    "year": 2005,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 10237.0,
+    "Number awarded financial aid": 8479.0,
+    "Percent awarded aid": 82.8270000976849
+  },
+  {
+    "year": 2010,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 13116.0,
+    "Number awarded financial aid": 11828.0,
+    "Percent awarded aid": 90.1799329063739
+  },
+  {
+    "year": 2015,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 35286.0,
+    "Number awarded financial aid": 33429.0,
+    "Percent awarded aid": 94.7372895766026
+  },
+  {
+    "year": 2016,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 60628.0,
+    "Number awarded financial aid": 56655.0,
+    "Percent awarded aid": 93.4469222141585
+  },
+  {
+    "year": 2017,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 33860.0,
+    "Number awarded financial aid": 32502.0,
+    "Percent awarded aid": 95.989367985824
+  },
+  {
+    "year": 2018,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 32083.0,
+    "Number awarded financial aid": 30936.0,
+    "Percent awarded aid": 96.4248979210174
+  },
+  {
+    "year": 2019,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 15536.0,
+    "Number awarded financial aid": 14548.0,
+    "Percent awarded aid": 93.6405767250258
+  },
+  {
+    "year": 2020,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 16151.0,
+    "Number awarded financial aid": 14701.0,
+    "Percent awarded aid": 91.0222277258374
+  },
+  {
+    "year": 2021,
+    "sector": "Private nonprofit",
+    "length": "2-year",
+    "Number enrolled": 16763.0,
+    "Number awarded financial aid": 14078.0,
+    "Percent awarded aid": 83.9825806836485
+  },
+  {
+    "year": 2000,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 419499.0,
+    "Number awarded financial aid": 347638.0,
+    "Percent awarded aid": 82.869804218842
+  },
+  {
+    "year": 2005,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 460832.0,
+    "Number awarded financial aid": 393429.0,
+    "Percent awarded aid": 85.3736285674606
+  },
+  {
+    "year": 2010,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 504715.0,
+    "Number awarded financial aid": 451012.0,
+    "Percent awarded aid": 89.3597376737367
+  },
+  {
+    "year": 2015,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 505549.0,
+    "Number awarded financial aid": 451276.0,
+    "Percent awarded aid": 89.264542111645
+  },
+  {
+    "year": 2016,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 508494.0,
+    "Number awarded financial aid": 454979.0,
+    "Percent awarded aid": 89.4757853583326
+  },
+  {
+    "year": 2017,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 516578.0,
+    "Number awarded financial aid": 464432.0,
+    "Percent awarded aid": 89.9054934588775
+  },
+  {
+    "year": 2018,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 528402.0,
+    "Number awarded financial aid": 475518.0,
+    "Percent awarded aid": 89.991710856507
+  },
+  {
+    "year": 2019,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 511289.0,
+    "Number awarded financial aid": 461778.0,
+    "Percent awarded aid": 90.3164355188553
+  },
+  {
+    "year": 2020,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 477264.0,
+    "Number awarded financial aid": 432959.0,
+    "Percent awarded aid": 90.7168778705287
+  },
+  {
+    "year": 2021,
+    "sector": "Private nonprofit",
+    "length": "4-year",
+    "Number enrolled": 505005.0,
+    "Number awarded financial aid": 453137.0,
+    "Percent awarded aid": 89.7292106018752
+  },
+  {
+    "year": 2000,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 439369.0,
+    "Number awarded financial aid": 363044.0,
+    "Percent awarded aid": 82.6284967760584
+  },
+  {
+    "year": 2005,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 471069.0,
+    "Number awarded financial aid": 401908.0,
+    "Percent awarded aid": 85.3182867053446
+  },
+  {
+    "year": 2010,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 517831.0,
+    "Number awarded financial aid": 462840.0,
+    "Percent awarded aid": 89.3805121748215
+  },
+  {
+    "year": 2015,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 540835.0,
+    "Number awarded financial aid": 484705.0,
+    "Percent awarded aid": 89.6216036314218
+  },
+  {
+    "year": 2016,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 569122.0,
+    "Number awarded financial aid": 511634.0,
+    "Percent awarded aid": 89.8988266136259
+  },
+  {
+    "year": 2017,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 550438.0,
+    "Number awarded financial aid": 496934.0,
+    "Percent awarded aid": 90.2797408609144
+  },
+  {
+    "year": 2018,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 560485.0,
+    "Number awarded financial aid": 506454.0,
+    "Percent awarded aid": 90.3599561094409
+  },
+  {
+    "year": 2019,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 526825.0,
+    "Number awarded financial aid": 476326.0,
+    "Percent awarded aid": 90.4144640060741
+  },
+  {
+    "year": 2020,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 493415.0,
+    "Number awarded financial aid": 447660.0,
+    "Percent awarded aid": 90.7268729163078
+  },
+  {
+    "year": 2021,
+    "sector": "Private nonprofit",
+    "length": "Overall",
+    "Number enrolled": 521768.0,
+    "Number awarded financial aid": 467215.0,
+    "Percent awarded aid": 89.5445868661934
+  },
+  {
+    "year": 2000,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 528443.0,
+    "Number awarded financial aid": 298679.0,
+    "Percent awarded aid": 56.5205708089614
+  },
+  {
+    "year": 2005,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 603320.0,
+    "Number awarded financial aid": 371024.0,
+    "Percent awarded aid": 61.497049658556
+  },
+  {
+    "year": 2010,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 763209.0,
+    "Number awarded financial aid": 562945.0,
+    "Percent awarded aid": 73.7602675020866
+  },
+  {
+    "year": 2015,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 603062.0,
+    "Number awarded financial aid": 451489.0,
+    "Percent awarded aid": 74.8661000029848
+  },
+  {
+    "year": 2016,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 591250.0,
+    "Number awarded financial aid": 442335.0,
+    "Percent awarded aid": 74.8135306553911
+  },
+  {
+    "year": 2017,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 583399.0,
+    "Number awarded financial aid": 444792.0,
+    "Percent awarded aid": 76.2414745311528
+  },
+  {
+    "year": 2018,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 569143.0,
+    "Number awarded financial aid": 437868.0,
+    "Percent awarded aid": 76.9346192433185
+  },
+  {
+    "year": 2019,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 561386.0,
+    "Number awarded financial aid": 453738.0,
+    "Percent awarded aid": 80.8246019672739
+  },
+  {
+    "year": 2020,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 460192.0,
+    "Number awarded financial aid": 371017.0,
+    "Percent awarded aid": 80.6222185522565
+  },
+  {
+    "year": 2021,
+    "sector": "Public",
+    "length": "2-year",
+    "Number enrolled": 434086.0,
+    "Number awarded financial aid": 370984.0,
+    "Percent awarded aid": 85.4632492178969
+  },
+  {
+    "year": 2000,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 804793.0,
+    "Number awarded financial aid": 573430.0,
+    "Percent awarded aid": 71.2518622801143
+  },
+  {
+    "year": 2005,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 906948.0,
+    "Number awarded financial aid": 695017.0,
+    "Percent awarded aid": 76.632508148207
+  },
+  {
+    "year": 2010,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1039126.0,
+    "Number awarded financial aid": 858424.0,
+    "Percent awarded aid": 82.6101935665165
+  },
+  {
+    "year": 2015,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1144409.0,
+    "Number awarded financial aid": 948342.0,
+    "Percent awarded aid": 82.8674014272869
+  },
+  {
+    "year": 2016,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1161684.0,
+    "Number awarded financial aid": 965117.0,
+    "Percent awarded aid": 83.079133396001
+  },
+  {
+    "year": 2017,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1183534.0,
+    "Number awarded financial aid": 993916.0,
+    "Percent awarded aid": 83.9786605201034
+  },
+  {
+    "year": 2018,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1208851.0,
+    "Number awarded financial aid": 1011977.0,
+    "Percent awarded aid": 83.7139564760256
+  },
+  {
+    "year": 2019,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1221792.0,
+    "Number awarded financial aid": 1040462.0,
+    "Percent awarded aid": 85.1586849480108
+  },
+  {
+    "year": 2020,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1147820.0,
+    "Number awarded financial aid": 978814.0,
+    "Percent awarded aid": 85.27591434197
+  },
+  {
+    "year": 2021,
+    "sector": "Public",
+    "length": "4-year",
+    "Number enrolled": 1183279.0,
+    "Number awarded financial aid": 1030951.0,
+    "Percent awarded aid": 87.1266201800252
+  },
+  {
+    "year": 2000,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1333236.0,
+    "Number awarded financial aid": 872109.0,
+    "Percent awarded aid": 65.4129501453606
+  },
+  {
+    "year": 2005,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1510268.0,
+    "Number awarded financial aid": 1066041.0,
+    "Percent awarded aid": 70.5862138375441
+  },
+  {
+    "year": 2010,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1802335.0,
+    "Number awarded financial aid": 1421369.0,
+    "Percent awarded aid": 78.8626420726446
+  },
+  {
+    "year": 2015,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1747471.0,
+    "Number awarded financial aid": 1399831.0,
+    "Percent awarded aid": 80.1061076263927
+  },
+  {
+    "year": 2016,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1752934.0,
+    "Number awarded financial aid": 1407452.0,
+    "Percent awarded aid": 80.2912146150397
+  },
+  {
+    "year": 2017,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1766933.0,
+    "Number awarded financial aid": 1438708.0,
+    "Percent awarded aid": 81.4240268306721
+  },
+  {
+    "year": 2018,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1777994.0,
+    "Number awarded financial aid": 1449845.0,
+    "Percent awarded aid": 81.5438634776045
+  },
+  {
+    "year": 2019,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1783178.0,
+    "Number awarded financial aid": 1494200.0,
+    "Percent awarded aid": 83.7942145988791
+  },
+  {
+    "year": 2020,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1608012.0,
+    "Number awarded financial aid": 1349831.0,
+    "Percent awarded aid": 83.9440874819342
+  },
+  {
+    "year": 2021,
+    "sector": "Public",
+    "length": "Overall",
+    "Number enrolled": 1617365.0,
+    "Number awarded financial aid": 1401935.0,
+    "Percent awarded aid": 86.680186599809
+  }
+]
