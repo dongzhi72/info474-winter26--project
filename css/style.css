@@ -1,104 +1,9 @@
-
-.container {
-  width: 890px;
-}
-
-#graphic {
-  padding-top: 60px;
-}
-
-
-#sections {
-  position: relative;
-  display: inline-block;
-  width: 250px;
-  top: 0px;
-  z-index: 90;
-  padding-bottom: 200px;
-}
-
-.step {
-  margin-bottom: 200px;
-  font-family: "TiemposTextWeb-Regular","Georgia";
-  font-size: 16px;
-  line-height: 23px;
-  color: #767678;
-}
-
-#sections .title {
-  font-family: Arial,Helvetica,"san-serif";
-  font-size: 16px;
-  font-weight: bold;
-  margin-bottom: 2px;
-  color: #262626;
-  line-height: 1.2em;
-}
-
-#extra-space {
-  height: 300px;
-}
-
-#vis {
-  display: inline-block;
-  position: fixed;
-  top: 60px;
-  z-index: 100;
-  margin-left: 0;
-  /* height: 600px; */
-  /* width: 600px; */
-  /* background-color: #ddd; */
-}
-
-/* visibility helpers for popup effect controlled by VisualController */
-.vis-hidden {
-  opacity: 0;
-  pointer-events: none;
-  transform: translateY(20px);
-  transition: opacity 260ms ease, transform 260ms ease;
-}
-.vis-visible {
-  opacity: 1;
-  pointer-events: auto;
-  transform: translateY(0px);
-  transition: opacity 260ms ease, transform 260ms ease;
-}
-
-#vis .title {
-  font-size:120px;
-  text-anchor: middle;
-}
-
-#vis .sub-title {
-  font-size:80px;
-  text-anchor: middle;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #666;
-  shape-rendering: crispEdges;
-}
-
-.highlight {
-  fill: #008080;
-  font-weight: bold;
-}
-
-.cough-arrow {
-  stroke: #000;
-  stroke-width: 4px;
-
-}
-
-/* ---------------------------------- */
-
 body {
   background-color: #faf4f0;
 }
 
 .container {
-  width: 890px;
+  width: 990px;
 }
 
 #graphic {
@@ -109,10 +14,12 @@ body {
 #sections {
   position: relative;
   display: inline-block;
-  width: 250px;
+  width: 300px;
   top: 0px;
   z-index: 90;
   padding-bottom: 200px;
+  margin-right: 100px;
+  font-size: 18px;
 }
 
 .step {
@@ -125,7 +32,7 @@ body {
 
 #sections .title {
   font-family: Arial,Helvetica,"san-serif";
-  font-size: 16px;
+  font-size: 30px;
   font-weight: bold;
   margin-bottom: 2px;
   color: #2C2C2C;           /* graphite — section titles */
@@ -191,9 +98,3 @@ body {
   stroke: #D94F3D;          /* notebook red — arrows */
   stroke-width: 4px;
 }
-
-
-
-
-
-
