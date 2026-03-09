@@ -91,19 +91,41 @@
                 
                 // Title
                 p.textStyle(p.BOLD);
+                p.textSize(18);
                 p.text("College Enrollment Rates by Sex (1960-2022)", startX + chartW/2, startY - 30);
                 p.textStyle(p.NORMAL);
+                p.textSize(12);
 
                 // X-Axis Labels (Every 10 years)
                 for (let yr = 1960; yr <= 2020; yr += 10) {
                     p.text(yr, mapX(yr), startY + chartH + 20);
                 }
 
+                // X-Axis Label
+                p.textAlign(p.CENTER);
+                p.fill(50);
+                p.textSize(13);
+                p.textStyle(p.BOLD);
+                p.text("Year", startX + chartW / 2, startY + chartH + 45);
+                p.textStyle(p.NORMAL);
+
                 // Y-Axis Labels
                 p.textAlign(p.RIGHT);
                 for (let v = minY; v <= maxY; v += 10) {
                     p.text(v + "%", startX - 10, mapY(v) + 4);
                 }
+
+                // Y-Axis Label (rotated)
+                p.push();
+                p.translate(startX - 70, startY + chartH / 2);
+                p.rotate(-p.HALF_PI);
+                p.textAlign(p.CENTER);
+                p.textSize(13);
+                p.textStyle(p.BOLD);
+                p.fill(50);
+                p.text("Enrollment Rate (%)", 0, 0);
+                p.textStyle(p.NORMAL);
+                p.pop();
 
                 // Legend
                 p.textAlign(p.LEFT);

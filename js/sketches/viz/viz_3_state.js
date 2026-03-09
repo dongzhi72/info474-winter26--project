@@ -154,6 +154,16 @@
                 p.line(legX + i, legY, legX + i, legY + legH);
             }
 
+            // Title
+            p.noStroke();
+            p.fill(50);
+            p.textAlign(p.CENTER);
+            p.textStyle(p.BOLD);
+            p.textSize(18);
+            p.text("Geographic Distribution of College Enrollment by State (1970-2022)", p.width / 2, 30);
+            p.textStyle(p.NORMAL);
+            p.textSize(12);
+
             // Labels
             p.noStroke();
             p.fill(50);
