@@ -68,6 +68,11 @@
                 window.Viz7Income.draw(p, manager, ai, progress);
                 return;
             }
+
+            if (ai === 8) {
+                window.Viz7Income.draw(p, manager, ai, progress);
+                return;
+            }
         }
     };
 })();
